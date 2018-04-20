@@ -26,7 +26,7 @@
 7
 00:00:44,400 --> 00:00:47,640
 <i>Vous m'avez dit qu'elle serait là à midi.</i>
-<i>Elle aurait déjà dû être maquillée.</i>
+<i>Elle aurait déjà dû être <strong>maquillée</strong>.</i>
 
 8
 00:00:47,760 --> 00:00:49,320
