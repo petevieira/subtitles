@@ -1,0 +1,4357 @@
+1
+00:00:05,520 --> 00:00:08,480
+<i>UNE SÉRIE ORIGINALE NETFLIX</i>
+
+2
+00:00:35,720 --> 00:00:37,120
+<i>[Leslie] Je vous rappelle.</i>
+
+3
+00:00:38,200 --> 00:00:39,040
+<i>[Gabriel] Leslie ?</i>
+
+4
+00:00:39,160 --> 00:00:40,120
+<i>Oui.</i>
+
+5
+00:00:40,400 --> 00:00:42,720
+<i>Bonjour, je suis Gabriel Sarda.</i>
+<i>L'agent de Cécile de France.</i>
+
+6
+00:00:42,840 --> 00:00:44,280
+<i>C'est vous que j'ai eu au téléphone.</i>
+
+7
+00:00:44,400 --> 00:00:47,640
+<i>Vous m'avez dit qu'elle serait là à midi.</i>
+<i>Elle aurait déjà dû être maquillée.</i>
+
+8
+00:00:47,760 --> 00:00:49,320
+<i>Ah oui, il est 13h. Elle est pas là ?</i>
+
+9
+00:00:49,440 --> 00:00:50,960
+<i>- Non, elle est pas là.</i>
+<i>- Elle va arriver.</i>
+
+10
+00:00:51,680 --> 00:00:52,560
+<i>Allez !</i>
+
+11
+00:00:56,560 --> 00:00:57,680
+<i>Avance, merde.</i>
+
+12
+00:00:57,960 --> 00:01:00,320
+<i>On ne s'énerve pas contre Biscotte.</i>
+
+13
+00:01:03,160 --> 00:01:05,280
+<i>[sonnerie du portable]</i>
+
+14
+00:01:05,400 --> 00:01:06,760
+<i>- Allô, Cécile ?</i>
+<span style="style_1">- Salut, Gabriel.</i>
+
+15
+00:01:06,880 --> 00:01:09,600
+<i>- T'es où, là ?</i>
+<span style="style_1">- À Quincampoix-Fleuzy. Pourquoi ?</i>
+
+16
+00:01:09,720 --> 00:01:12,520
+<i>On est au Westin, là.</i>
+<i>Tout le monde t'attend.</i>
+
+17
+00:01:12,640 --> 00:01:14,200
+<i>La journaliste et le photographe sont là.</i>
+
+18
+00:01:14,320 --> 00:01:15,400
+<i>Putain de merde !</i>
+
+19
+00:01:17,320 --> 00:01:20,520
+<i>Oh, merde. Faut que tu m'aides.</i>
+<i>Je suis encore au cours de cheval.</i>
+
+20
+00:01:20,680 --> 00:01:22,640
+<i>T'en prends combien,</i>
+<i>des cours de cheval ?</i>
+
+21
+00:01:22,760 --> 00:01:24,320
+<i>Je croyais que tu maîtrisais à fond.</i>
+
+22
+00:01:24,440 --> 00:01:27,080
+<i>Ah oui,</i>
+<i>mais je maîtrise complètement, hein.</i>
+
+23
+00:01:27,200 --> 00:01:29,560
+<i>[la monitrice]</i>
+<i>Et on ne téléphone pas sur Biscotte.</i>
+
+24
+00:01:30,360 --> 00:01:34,920
+<i>Et là, j'ai juste besoin un peu</i>
+<i>de coaching pour me refaire la main.</i>
+
+25
+00:01:35,400 --> 00:01:36,720
+<i>Tu m'inquiètes, là.</i>
+
+26
+00:01:36,840 --> 00:01:39,400
+<i>Les Américains ont bien insisté :</i>
+<i>il faut être nickel à cheval.</i>
+
+27
+00:01:39,520 --> 00:01:43,160
+<i>- Je te fais confiance ?</i>
+<span style="style_2">- Oui, je suis pas loin d'être nickel.</i>
+
+28
+00:01:43,280 --> 00:01:44,640
+<i>C'est...</i>
+
+29
+00:01:44,760 --> 00:01:47,120
+<i>Bon, écoute,</i>
+<i>je te rappelle tout à l'heure.</i>
+
+30
+00:01:47,280 --> 00:01:49,680
+<i>Parce qu'on va rentrer dans un sous-bois.</i>
+
+31
+00:01:49,800 --> 00:01:51,160
+<i>Ben oui, mais...</i>
+
+32
+00:01:51,560 --> 00:01:54,040
+<i>- T'es là quand, alors ?</i>
+<span style="style_2">- Dans une heure.</i>
+
+33
+00:01:54,160 --> 00:01:55,240
+<i>T'as réussi à les faire patienter ?</i>
+
+34
+00:01:55,360 --> 00:01:58,000
+<i>J'ai noyé le poisson.</i>
+<i>J'ai encore raconté un gros bobard.</i>
+
+35
+00:01:58,120 --> 00:02:00,320
+<i>J'ai dit que tes enfants étaient...</i>
+
+36
+00:02:00,800 --> 00:02:02,560
+<i>Houlà ! Ça sent le poney, ça !</i>
+
+37
+00:02:02,720 --> 00:02:05,560
+<i>- J'ai pas pu passer à la maison.</i>
+<i>- Va falloir faire quelque chose.</i>
+
+38
+00:02:05,680 --> 00:02:07,920
+<i>Bon, tu me dis rien pour les Américains.</i>
+<i>C'est signé ?</i>
+
+39
+00:02:08,040 --> 00:02:10,680
+<i>Ils ont pas encore appelé.</i>
+<i>Ils reviennent vers nous aujourd'hui.</i>
+
+40
+00:02:10,759 --> 00:02:12,640
+<i>- Ah, Cécile ! Bonjour.</i>
+<i>- Voilà, Cécile est là !</i>
+
+41
+00:02:12,800 --> 00:02:14,160
+<i>- Je suis désolée.</i>
+<i>- Je suis très contente.</i>
+
+42
+00:02:14,280 --> 00:02:17,400
+<i>On a eu très peur. On est atrocement</i>
+<i>en retard, mais ça va aller.</i>
+
+43
+00:02:17,560 --> 00:02:18,440
+<i>Oui. Excusez-moi.</i>
+
+44
+00:02:28,000 --> 00:02:29,840
+<i>Ça y est : Cécile est là.</i>
+
+45
+00:02:29,960 --> 00:02:31,240
+<i>[photographe] Ah, Cécile !</i>
+
+46
+00:02:31,360 --> 00:02:34,200
+<i>Excusez-moi. Je suis vraiment désolée.</i>
+
+47
+00:02:34,760 --> 00:02:36,640
+<i>Reviens juste avec ton visage.</i>
+
+48
+00:02:36,960 --> 00:02:38,720
+<i>Juste ton regard plus vers moi.</i>
+
+49
+00:02:44,520 --> 00:02:45,840
+<i>- Ça va ?</i>
+<i>- Oui.</i>
+
+50
+00:02:46,240 --> 00:02:48,600
+<i>Juste ça. Voilà.</i>
+
+51
+00:02:51,280 --> 00:02:53,080
+<i>Non, c'est bon. Merci.</i>
+
+52
+00:03:07,040 --> 00:03:08,480
+<i>[Leslie] Alors, Cécile.</i>
+
+53
+00:03:08,600 --> 00:03:11,360
+<i>Vous auriez été approchée</i>
+<i>pour faire un film aux États-Unis.</i>
+
+54
+00:03:12,320 --> 00:03:15,160
+<i>Vous pouvez nous en dire un peu plus ?</i>
+
+55
+00:03:15,720 --> 00:03:17,960
+<i>Bon, c'est off, off de chez off.</i>
+
+56
+00:03:18,480 --> 00:03:20,120
+<i>Ça restera entre nous.</i>
+
+57
+00:03:20,240 --> 00:03:22,280
+<i>J'ai pas le droit de trop en dire.</i>
+<i>Rien n'est encore signé.</i>
+
+58
+00:03:22,400 --> 00:03:24,960
+<i>Et on attend l'appel de confirmation</i>
+<i>de Los Angeles.</i>
+
+59
+00:03:25,960 --> 00:03:26,880
+<i>Et ?</i>
+
+60
+00:03:27,640 --> 00:03:30,720
+<i>Mais bon, je vous le dis :</i>
+<i>c'est pour le prochain film de Tarantino.</i>
+
+61
+00:03:32,040 --> 00:03:33,080
+<i>C'est merveilleux.</i>
+
+62
+00:03:33,200 --> 00:03:35,920
+<i>Ça s'appelle</i>
+<span style="style_1">La Vengeance de l'immortelle</i><i>.</i>
+
+63
+00:03:36,040 --> 00:03:39,080
+<i>C'est l'histoire d'une femme cowboy</i>
+<i>qui devient immortelle...</i>
+
+64
+00:03:52,720 --> 00:03:54,480
+<i>Non, non. C'est parfait.</i>
+
+65
+00:03:56,120 --> 00:04:01,120
+<i>Enfin, voilà. C'est une superproduction</i>
+<i>hollywoodienne et voilà,</i>
+
+66
+00:04:01,240 --> 00:04:04,400
+<i>c'est un grand rêve pour moi</i>
+<i>de faire un film avec Tarantino.</i>
+
+67
+00:04:08,480 --> 00:04:10,640
+<i>[musique de générique]</i>
+
+68
+00:04:53,760 --> 00:04:55,560
+<i>[voix ascenseur] </i><span style="style_1">{\an8}Ouverture des portes.</i>
+
+69
+00:05:01,280 --> 00:05:03,840
+<i>- [Sofia] Bonjour.</i>
+<i>- Oui, euh... Moi aussi.</i>
+
+70
+00:05:04,000 --> 00:05:05,080
+<i>Bonjour, Mathias.</i>
+
+71
+00:05:05,240 --> 00:05:07,960
+<i>- Oui, 300 000, absolument.</i>
+<i>- [Sofia] ASK, bonjour.</i>
+
+72
+00:05:08,360 --> 00:05:10,400
+<i>Vous me parlez de 20 jours de tournage.</i>
+
+73
+00:05:10,560 --> 00:05:13,360
+<i>Moi, je vous parle de 20 ans de carrière</i>
+<i>internationale qu'il a derrière lui.</i>
+
+74
+00:05:13,480 --> 00:05:16,560
+<i>Je veux absolument aller voir la pièce</i>
+<i>de Koltès au Théâtre du Rond-Point.</i>
+
+75
+00:05:16,680 --> 00:05:17,840
+<i>Prends-moi deux places pour mardi.</i>
+
+76
+00:05:17,960 --> 00:05:20,080
+<i>T'as déjà la projection</i>
+<i>du film de Kechiche.</i>
+
+77
+00:05:20,200 --> 00:05:21,400
+<i>Bah jeudi, alors.</i>
+
+78
+00:05:21,520 --> 00:05:24,520
+<i>Demain, réserve-moi une table au Fumoir.</i>
+<i>Je déjeune avec Audiard et Arelstrup.</i>
+
+79
+00:05:24,640 --> 00:05:26,120
+<i>Je te le prends. Merci.</i>
+
+80
+00:05:26,240 --> 00:05:28,640
+<i>Non. Demain, t'as déjà un déjeuner</i>
+<i>avec Dany Boon au Marly.</i>
+
+81
+00:05:28,760 --> 00:05:30,520
+<i>Putain, t'es chiante, Magali !</i>
+
+82
+00:05:30,680 --> 00:05:32,920
+<i>- Samuel, je peux te voir tout à l'heure ?</i>
+<i>- Oui, oui.</i>
+
+83
+00:05:33,320 --> 00:05:36,880
+<i>Audiard et Dany Boon, je peux pas</i>
+<i>leur proposer de déjeuner ensemble.</i>
+
+84
+00:05:37,000 --> 00:05:40,480
+<i>Tu m'en cales un à 12h30, l'autre à 14 h.</i>
+<i>Tant pis, je déjeunerai deux fois.</i>
+
+85
+00:05:41,040 --> 00:05:42,600
+<i>Sinon, je veux bien</i>
+<i>que t'appelles Clémentine.</i>
+
+86
+00:05:42,720 --> 00:05:45,000
+<i>Tu dis que je suis vraiment désolée,</i>
+<i>mais ce soir, je ne pourrai pas venir.</i>
+
+87
+00:05:45,160 --> 00:05:48,480
+<i>Clémentine, ta copine,</i>
+<i>celle de la semaine dernière ?</i>
+
+88
+00:05:48,600 --> 00:05:50,960
+<i>J'ai couché avec une autre Clémentine ?</i>
+<i>Ça va, Arlette ?</i>
+
+89
+00:05:51,080 --> 00:05:51,920
+<i>Oui, beauté.</i>
+
+90
+00:05:52,040 --> 00:05:54,840
+<i>Je sais pas, en fait.</i>
+<i>Mais qu'est-ce que je lui dis ?</i>
+
+91
+00:05:55,000 --> 00:05:58,360
+<i>Hein ? Qu'elle est super,</i>
+<i>mais que je m'ennuie avec elle.</i>
+
+92
+00:05:59,080 --> 00:06:02,160
+<i>Mais non, tu lui dis pas ça.</i>
+<i>Oh, tu réfléchis un peu ?</i>
+
+93
+00:06:03,120 --> 00:06:05,480
+<i>Je sais pas, tu te démerdes.</i>
+
+94
+00:06:05,600 --> 00:06:07,240
+<i>Tu dis que j'ai une projection,</i>
+<i>une réunion.</i>
+
+95
+00:06:07,360 --> 00:06:08,960
+<i>[téléphone]</i>
+<i>Enfin, tu brodes.</i>
+
+96
+00:06:09,080 --> 00:06:10,280
+<i>- Gabriel.</i>
+<i>- Oui ?</i>
+
+97
+00:06:10,400 --> 00:06:12,720
+<i>Tu réponds pas</i>
+<i>à Cécile de France, Gabriel ?</i>
+
+98
+00:06:12,840 --> 00:06:15,400
+<i>Euh, je la rappellerai.</i>
+
+99
+00:06:15,880 --> 00:06:16,760
+<i>Ça va ?</i>
+
+100
+00:06:17,120 --> 00:06:19,760
+<i>Oui... Et toi ?</i>
+
+101
+00:06:20,120 --> 00:06:21,320
+<i>Ouais, ouais.</i>
+
+102
+00:06:55,640 --> 00:06:58,800
+<i>D'accord. Ou vendredi, 11 heures.</i>
+
+103
+00:06:59,200 --> 00:07:00,040
+<i>Bonjour.</i>
+
+104
+00:07:00,160 --> 00:07:03,160
+<i>- Bonjour.</i>
+<i>- Ce serait pour voir M. Barneville.</i>
+
+105
+00:07:03,560 --> 00:07:04,480
+<i>Vous avez rendez-vous ?</i>
+
+106
+00:07:05,040 --> 00:07:07,440
+<i>Euh non. Mais c'est important.</i>
+
+107
+00:07:09,040 --> 00:07:11,240
+<i>Si vous êtes comédienne,</i>
+<i>vous posez votre photo et votre CV ici.</i>
+
+108
+00:07:11,760 --> 00:07:14,040
+<i>- Euh...</i>
+<i>- [Sofia] Écoutez.</i>
+
+109
+00:07:14,160 --> 00:07:16,720
+<i>Je vous préviens,</i>
+<i>dans cette agence, y a que des stars.</i>
+
+110
+00:07:16,840 --> 00:07:18,880
+<i>Donc, vous faites pas d'illusions.</i>
+
+111
+00:07:19,000 --> 00:07:21,760
+<i>Je suis pas du tout comédienne.</i>
+<i>Je veux juste voir M. Barneville.</i>
+
+112
+00:07:23,880 --> 00:07:24,760
+<i>Votre nom ?</i>
+
+113
+00:07:25,400 --> 00:07:28,080
+<i>Camille Valentini. Il me connaît.</i>
+
+114
+00:07:28,680 --> 00:07:32,160
+<i>Sans rendez-vous pour voir Matthias...</i>
+<i>Bon, j'essaie. Je vous promets rien.</i>
+
+115
+00:07:32,840 --> 00:07:34,200
+<i>Allez vous asseoir.</i>
+
+116
+00:07:36,240 --> 00:07:38,960
+<i>[Sofia] Mathias.</i>
+<i>Camille Valentini à l'accueil.</i>
+
+117
+00:07:39,080 --> 00:07:41,040
+<i>Je suis désolée de vous déranger.</i>
+
+118
+00:07:53,080 --> 00:07:54,480
+<i>Bonjour, Camille.</i>
+
+119
+00:07:55,560 --> 00:07:56,400
+<i>Venez.</i>
+
+120
+00:08:05,400 --> 00:08:07,520
+<i>Je vais prendre un café, s'il vous plaît.</i>
+
+121
+00:08:08,280 --> 00:08:10,120
+<i>Un thé, merci.</i>
+
+122
+00:08:13,960 --> 00:08:18,880
+<i>- Pourquoi tu m'as pas appelé ?</i>
+<i>- Je voulais te faire la surprise.</i>
+
+123
+00:08:20,960 --> 00:08:23,200
+<i>Qu'est-ce que t'as dit,</i>
+<i>à la fille de l'accueil ?</i>
+
+124
+00:08:23,320 --> 00:08:24,840
+<i>Rien. Que je voulais te voir.</i>
+
+125
+00:08:25,520 --> 00:08:27,680
+<i>T'inquiète pas, je suis pas débile.</i>
+
+126
+00:08:28,440 --> 00:08:31,920
+<i>C'est chic, ici.</i>
+<i>Ils donnent des sucettes gratuites ?</i>
+
+127
+00:08:32,039 --> 00:08:33,600
+<i>C'est pas des sucettes.</i>
+<i>C'est pour faire fondre dans le café.</i>
+
+128
+00:08:34,200 --> 00:08:35,720
+<i>Ah ? OK.</i>
+
+129
+00:08:36,679 --> 00:08:38,960
+<i>Et qu'est-ce que tu viens faire à Paris ?</i>
+
+130
+00:08:39,080 --> 00:08:39,919
+<i>T'es en vacances ?</i>
+
+131
+00:08:40,039 --> 00:08:41,080
+<i>Ouais, plus ou moins.</i>
+
+132
+00:08:41,200 --> 00:08:42,159
+<i>Comment ça ?</i>
+
+133
+00:08:42,640 --> 00:08:45,880
+<i>En fait,</i>
+<i>ça fait trois semaines que je suis là.</i>
+
+134
+00:08:46,000 --> 00:08:48,280
+<i>Pour vivre ici, pour tenter ma chance.</i>
+
+135
+00:08:48,440 --> 00:08:51,200
+<i>Mais pourquoi ?</i>
+<i>T'es pas bien à Mandelieu ?</i>
+
+136
+00:08:51,320 --> 00:08:53,080
+<i>C'est très beau, là-bas.</i>
+
+137
+00:08:53,200 --> 00:08:55,040
+<i>Le nombre de gens qui paieraient</i>
+<i>pour vivre sur la Côte d'Azur...</i>
+
+138
+00:08:55,160 --> 00:08:57,680
+<i>Ah oui ? T'as jamais eu envie</i>
+<i>d'y habiter, toi pourtant.</i>
+
+139
+00:08:59,560 --> 00:09:01,560
+<i>- Et puis, tu avais un bon travail.</i>
+<i>- Ah bon ?</i>
+
+140
+00:09:01,680 --> 00:09:05,560
+<i>Et c'était quoi, mon travail ?</i>
+<i>Je vendais des sous-vêtements à domicile.</i>
+
+141
+00:09:05,680 --> 00:09:07,600
+<i>Genre réunions Tupperware.</i>
+
+142
+00:09:10,520 --> 00:09:11,400
+<i>[Camille] Merci.</i>
+
+143
+00:09:20,160 --> 00:09:23,280
+<i>Et tu as trouvé un logement ? Du travail ?</i>
+
+144
+00:09:23,680 --> 00:09:26,920
+<i>Je suis dans une petite chambre</i>
+<i>de bonne. Ça va.</i>
+
+145
+00:09:27,760 --> 00:09:29,960
+<i>Et le travail, je cherche.</i>
+
+146
+00:09:30,080 --> 00:09:31,720
+<i>Et du coup, je me disais...</i>
+
+147
+00:09:31,840 --> 00:09:34,800
+<i>Comme tu connais du monde dans le cinéma,</i>
+<i>tu pourrais me filer un coup de main.</i>
+
+148
+00:09:37,960 --> 00:09:39,160
+<i>C'est quoi, cette nouvelle lubie ?</i>
+
+149
+00:09:39,280 --> 00:09:41,760
+<i>Non, c'est pas une lubie. C'est sérieux.</i>
+
+150
+00:09:41,880 --> 00:09:44,120
+<i>C'est ce qui me fait rêver</i>
+<i>depuis toute petite, le cinéma.</i>
+
+151
+00:09:44,240 --> 00:09:47,120
+<i>Je peux faire n'importe quoi :</i>
+<i>coller le scotch par terre</i>
+
+152
+00:09:47,240 --> 00:09:50,280
+<i>pour que l'acteur sache où se mettre,</i>
+<i>tenir le parapluie de la star,</i>
+
+153
+00:09:50,440 --> 00:09:53,520
+<i>apporter les cafés, les sushis,</i>
+<i>la cocaïne. Je sais que c'est mon truc.</i>
+
+154
+00:09:53,640 --> 00:09:54,520
+<i>Écoute, Camille.</i>
+
+155
+00:09:54,640 --> 00:09:56,440
+<i>Le cinéma, c'est pas un truc</i>
+<i>qu'on fait comme ça</i>
+
+156
+00:09:56,560 --> 00:09:57,840
+<i>comme on fait de la danse ou du judo.</i>
+
+157
+00:09:57,960 --> 00:09:59,840
+<i>- Je sais.</i>
+<i>- Avant tout, c'est une industrie.</i>
+
+158
+00:09:59,960 --> 00:10:01,480
+<i>Et c'est un monde de requins.</i>
+
+159
+00:10:01,640 --> 00:10:04,400
+<i>Si c'est pas toi qui bouffes les autres,</i>
+<i>c'est toi qui es bouffé.</i>
+
+160
+00:10:04,560 --> 00:10:05,880
+<i>C'est horriblement difficile.</i>
+
+161
+00:10:06,160 --> 00:10:07,320
+<i>Super.</i>
+
+162
+00:10:09,200 --> 00:10:11,320
+<i>Si tu aimes vraiment le cinéma,</i>
+<i>va t'acheter une carte UGC.</i>
+
+163
+00:10:11,440 --> 00:10:13,280
+<i>Ça t'évitera bien des déconvenues.</i>
+
+164
+00:10:13,800 --> 00:10:14,640
+<i>[serveur] Oui ?</i>
+
+165
+00:10:17,640 --> 00:10:20,840
+<i>Je suis désolé.</i>
+<i>C'est tout ce que je peux faire.</i>
+
+166
+00:10:35,960 --> 00:10:37,720
+<i>[ensemble] Ah !</i>
+
+167
+00:10:37,840 --> 00:10:38,920
+<i>Samuel, excuse-moi.</i>
+
+168
+00:10:40,720 --> 00:10:42,440
+<i>- Bon...</i>
+<i>- Alors, vas-y, fayotte.</i>
+
+169
+00:10:42,960 --> 00:10:44,040
+<i>[Noémie] Euh...</i>
+
+170
+00:10:44,440 --> 00:10:45,680
+<i>Chapeau, l'artiste !</i>
+
+171
+00:10:50,120 --> 00:10:52,040
+<i>Je pars en vacances au Brésil,</i>
+<i>pas en retraite.</i>
+
+172
+00:10:52,360 --> 00:10:54,640
+<i>Vos premières vacances</i>
+<i>en huit ans, ça se fête !</i>
+
+173
+00:10:58,200 --> 00:11:01,240
+<i>Si tu l'enfonces bien sur ton crâne,</i>
+<i>ça t'empêchera de téléphoner</i>
+
+174
+00:11:01,360 --> 00:11:02,200
+<i>à tes clients.</i>
+
+175
+00:11:02,320 --> 00:11:03,440
+<i>On voudrait pas</i>
+
+176
+00:11:03,560 --> 00:11:06,440
+<i>que tu t'emmerdes à les écouter chouiner</i>
+<i>pendant tes deux semaines.</i>
+
+177
+00:11:06,560 --> 00:11:09,280
+<i>Alors, tu bois des caïpis et des mojitos.</i>
+<i>Tu regardes le cul des filles</i>
+
+178
+00:11:09,400 --> 00:11:11,440
+<i>et tu passes le bonjour à Pelé de ma part.</i>
+
+179
+00:11:11,560 --> 00:11:12,760
+<i>Pourquoi juste je regarde ?</i>
+
+180
+00:11:13,000 --> 00:11:14,240
+<i>Comme tu veux.</i>
+
+181
+00:11:15,280 --> 00:11:17,480
+<i>Merci à tous.</i>
+<i>Vraiment, ça me fait très plaisir.</i>
+
+182
+00:11:19,320 --> 00:11:21,200
+<i>Allez, dernière réunion avant de partir.</i>
+
+183
+00:11:24,080 --> 00:11:25,760
+<i>- Des nouvelles importantes ?</i>
+<i>- Oui.</i>
+
+184
+00:11:25,880 --> 00:11:28,880
+<i>Mon poulain préféré Pierre Niney</i>
+<i>a été pris sur </i><span style="style_1">Les Larmes du monstre</i>
+
+185
+00:11:29,000 --> 00:11:30,880
+<i>pour jouer le frère de Guillaume Canet.</i>
+
+186
+00:11:31,040 --> 00:11:32,200
+<i>- [Samuel] Excellent.</i>
+<i>- Bravo.</i>
+
+187
+00:11:32,320 --> 00:11:33,200
+<i>Pas mal.</i>
+
+188
+00:11:33,320 --> 00:11:35,720
+<i>Ça nous fait deux acteurs maison</i>
+<i>sur le film.</i>
+
+189
+00:11:35,840 --> 00:11:38,320
+<i>Et on en est où,</i>
+<i>du contrat Guillaume Canet là-dessus ?</i>
+
+190
+00:11:38,440 --> 00:11:40,560
+<i>- Ça suit son cours.</i>
+<i>- Rien d'autre ?</i>
+
+191
+00:11:41,240 --> 00:11:44,720
+<i>Gabriel, on en est où de Cécile de France</i>
+<i>pour le Tarantino ?</i>
+
+192
+00:11:47,600 --> 00:11:48,440
+<i>Ben...</i>
+
+193
+00:11:48,960 --> 00:11:50,760
+<i>Ah, ça se passe mal ?</i>
+
+194
+00:11:52,520 --> 00:11:54,560
+<i>Je dirais pas que ça se passe mal.</i>
+
+195
+00:11:55,560 --> 00:11:57,640
+<i>Euh, disons que ça se passe plus.</i>
+
+196
+00:11:58,200 --> 00:11:59,080
+<i>Oh, merde.</i>
+
+197
+00:11:59,480 --> 00:12:00,640
+<i>Hein ?</i>
+
+198
+00:12:00,880 --> 00:12:02,520
+<i>- Mais non...</i>
+<i>- Gabriel ?</i>
+
+199
+00:12:03,000 --> 00:12:08,200
+<i>Oui. Après un an d'allers-retours</i>
+<i>entre Paris et Los Angeles,</i>
+
+200
+00:12:08,320 --> 00:12:10,560
+<i>des dizaines d'essais,</i>
+<i>des cours de cheval et d'anglais,</i>
+
+201
+00:12:11,600 --> 00:12:14,480
+<i>ils la prennent pas</i>
+<i>car ils ont jugé qu'elle était...</i>
+
+202
+00:12:14,600 --> 00:12:15,840
+<i>trop âgée pour le rôle.</i>
+
+203
+00:12:15,960 --> 00:12:17,760
+<i>- Quoi ?</i>
+<i>- Cécile ?</i>
+
+204
+00:12:17,880 --> 00:12:19,120
+<i>C'est "hiroshimesque" !</i>
+
+205
+00:12:19,200 --> 00:12:22,120
+<i>Cécile, trop âgée pour un rôle ?</i>
+<i>C'est quoi, le rôle, un enfant ?</i>
+
+206
+00:12:23,000 --> 00:12:24,120
+<i>Ce qu'il faut comprendre,</i>
+
+207
+00:12:24,240 --> 00:12:26,280
+<i>c'est que c'est une trilogie,</i>
+<i>donc trois films.</i>
+
+208
+00:12:26,920 --> 00:12:29,600
+<i>Du travail pour l'actrice jusqu'en 2022,</i>
+
+209
+00:12:29,720 --> 00:12:31,520
+<i>un contrat de plusieurs millions d'euros</i>
+
+210
+00:12:31,640 --> 00:12:33,840
+<i>que Gabriel</i>
+<i>vient de laisser nous échapper.</i>
+
+211
+00:12:33,960 --> 00:12:35,440
+<i>Mathias, c'est bon.</i>
+
+212
+00:12:35,560 --> 00:12:38,360
+<i>- J'ai lu dans une interview...</i>
+<i>- Non, hé !</i>
+
+213
+00:12:39,400 --> 00:12:40,240
+<i>Magali...</i>
+
+214
+00:12:43,760 --> 00:12:45,720
+<i>Donc, je lui ai encore rien dit.</i>
+
+215
+00:12:45,840 --> 00:12:46,640
+<i>Magali ?</i>
+
+216
+00:12:51,280 --> 00:12:53,080
+<i>- Oh, non !</i>
+<i>- Excusez-moi.</i>
+
+217
+00:12:53,200 --> 00:12:55,400
+<i>- Sérieusement ?</i>
+<i>- Non, c'est bon...</i>
+
+218
+00:12:57,280 --> 00:12:58,680
+<i>[Magali] Ça suffit. Moi, je me casse !</i>
+
+219
+00:12:58,800 --> 00:13:00,440
+<i>Est-ce que vous auriez une enveloppe ?</i>
+
+220
+00:13:01,040 --> 00:13:02,000
+<i>[Andréa] Magali !</i>
+
+221
+00:13:02,120 --> 00:13:03,360
+<i>Merci.</i>
+
+222
+00:13:03,480 --> 00:13:05,240
+<i>[Andréa] Magali, tu vas où ?</i>
+
+223
+00:13:06,680 --> 00:13:08,120
+<i>Tu peux pas me faire ça.</i>
+
+224
+00:13:08,240 --> 00:13:09,800
+<i>C'est criminel de partir maintenant.</i>
+
+225
+00:13:09,960 --> 00:13:13,640
+<i>Je suis désolée, mais j'en peux plus !</i>
+<i>Tu m'as pompé toute ma sève.</i>
+
+226
+00:13:13,760 --> 00:13:15,680
+<i>Je sais, tu me l'as déjà dit,</i>
+<i>mais c'est pas une raison.</i>
+
+227
+00:13:15,800 --> 00:13:17,560
+<i>C'est normal d'être un peu fatiguée.</i>
+
+228
+00:13:17,680 --> 00:13:19,760
+<i>On est tous un peu fatigués.</i>
+<i>On rentre dans l'hiver.</i>
+
+229
+00:13:20,280 --> 00:13:21,720
+<i>Tu vas prendre de la gelée royale.</i>
+
+230
+00:13:21,840 --> 00:13:24,160
+<i>Viens au bureau à vélo.</i>
+<i>Ça va te donner de la force.</i>
+
+231
+00:13:24,280 --> 00:13:25,360
+<i>Non. Je te jure</i>
+
+232
+00:13:25,480 --> 00:13:27,320
+<i>que si je m'éloigne pas pour de bon,</i>
+
+233
+00:13:27,440 --> 00:13:29,840
+<i>je risque de m'en prendre à toi,</i>
+<i>physiquement. Désolée.</i>
+
+234
+00:13:29,960 --> 00:13:33,520
+<i>C'est comme ça que tu me remercies ?</i>
+<i>Je t'ai formée pendant des années.</i>
+
+235
+00:13:33,640 --> 00:13:35,280
+<i>Je t'ai présenté tout Paris.</i>
+
+236
+00:13:35,400 --> 00:13:37,320
+<i>Je veux plus entendre tout ça, OK ?</i>
+
+237
+00:13:39,160 --> 00:13:40,600
+<i>Je veux juste partir.</i>
+
+238
+00:13:41,600 --> 00:13:43,920
+<i>C'est pas toi qui pars !</i>
+<i>C'est moi qui te vire.</i>
+
+239
+00:13:44,040 --> 00:13:45,320
+<i>T'es virée !</i>
+
+240
+00:13:53,760 --> 00:13:55,600
+<i>Comment je vais faire sans assistante ?</i>
+
+241
+00:13:59,160 --> 00:14:00,880
+<i>Ça vous intéresse une promotion ?</i>
+
+242
+00:14:01,040 --> 00:14:05,320
+<i>Non. Je veux dire, c'est très gentil,</i>
+<i>mais je veux pas travailler ici.</i>
+
+243
+00:14:05,440 --> 00:14:07,560
+<i>Je veux pas être agent. Je travaille ici</i>
+
+244
+00:14:07,680 --> 00:14:09,600
+<i>à mi-temps, parce que je suis comédienne.</i>
+
+245
+00:14:09,720 --> 00:14:12,040
+<i>Je vous l'ai déjà dit,</i>
+<i>mais vous avez dû zapper.</i>
+
+246
+00:14:12,200 --> 00:14:14,520
+<i>D'ailleurs, j'en profite,</i>
+<i>parce que je suis en spectacle</i>
+
+247
+00:14:14,640 --> 00:14:16,080
+<i>en ce moment.</i>
+
+248
+00:14:16,760 --> 00:14:18,320
+<i>Moi, ça m'intéresse.</i>
+
+249
+00:14:18,440 --> 00:14:20,000
+<i>C'est Porte des Lilas.</i>
+
+250
+00:14:22,080 --> 00:14:23,320
+<i>Non, merci.</i>
+
+251
+00:14:37,000 --> 00:14:37,960
+<i>Vous...</i>
+
+252
+00:14:38,880 --> 00:14:40,800
+<i>Qu'est-ce que vous faites ? Vous venez ?</i>
+
+253
+00:14:41,280 --> 00:14:42,160
+<i>Oui.</i>
+
+254
+00:14:47,040 --> 00:14:48,560
+<i>Vous sortez d'où, vous ?</i>
+
+255
+00:14:49,000 --> 00:14:51,440
+<i>J'arrive de la Côte d'Azur.</i>
+
+256
+00:14:52,520 --> 00:14:53,400
+<i>Près de Cannes.</i>
+
+257
+00:14:53,520 --> 00:14:55,320
+<i>Cannes. Vous avez travaillé au festival ?</i>
+
+258
+00:14:56,760 --> 00:15:00,040
+<i>- Oui. Au festival de Cannes.</i>
+<i>- Vous faisiez quoi ?</i>
+
+259
+00:15:01,720 --> 00:15:05,560
+<i>Alors, ça dépend... Au début...</i>
+
+260
+00:15:07,080 --> 00:15:08,280
+<i>J'étais dans les sous-vêtements.</i>
+
+261
+00:15:08,880 --> 00:15:10,040
+<i>Les sous-vêtements des stars.</i>
+
+262
+00:15:10,160 --> 00:15:13,800
+<i>C'est moi qui m'occupais des urgences :</i>
+<i>culotte qui se voit trop sous la robe,</i>
+
+263
+00:15:13,920 --> 00:15:15,200
+<i>bretelle de soutien-gorge qui craque.</i>
+
+264
+00:15:15,520 --> 00:15:16,960
+<i>J'arrivais avec ma marchandise :</i>
+
+265
+00:15:17,080 --> 00:15:19,440
+<i>"Ne pleurez pas.</i>
+<i>On va s'occuper de tout ça."</i>
+
+266
+00:15:20,200 --> 00:15:22,440
+<i>- Vous étiez au cœur du système.</i>
+<i>- Voilà.</i>
+
+267
+00:15:23,520 --> 00:15:25,120
+<i>[sonnerie du téléphone]</i>
+
+268
+00:15:27,760 --> 00:15:29,720
+<i>Oui ? Oui.</i>
+
+269
+00:15:30,400 --> 00:15:31,640
+<i>D'accord. On fait ça.</i>
+
+270
+00:15:32,640 --> 00:15:33,480
+<i>Ouais.</i>
+
+271
+00:15:33,600 --> 00:15:36,480
+<i>Je te l'envoie, d'accord ?</i>
+<i>Je dois te laisser.</i>
+
+272
+00:15:38,400 --> 00:15:39,840
+<i>Vous avez un petit ami ?</i>
+
+273
+00:15:39,920 --> 00:15:40,760
+<i>Non.</i>
+
+274
+00:15:41,160 --> 00:15:43,400
+<i>- Pas de projet d'enfant ?</i>
+<i>- Ben non.</i>
+
+275
+00:15:44,240 --> 00:15:45,560
+<i>Vous connaissez du monde à Paris ?</i>
+
+276
+00:15:46,080 --> 00:15:48,240
+<i>Non, mais comme je vous disais,</i>
+<i>je viens d'arriver.</i>
+
+277
+00:15:48,360 --> 00:15:49,840
+<i>Y a mon père, mais c'est compliqué.</i>
+
+278
+00:15:49,960 --> 00:15:51,480
+<i>Quoi ? Vous devez vous occuper de lui ?</i>
+
+279
+00:15:51,600 --> 00:15:52,840
+<i>Non, ça, y a pas de risque.</i>
+
+280
+00:15:58,560 --> 00:15:59,840
+<i>Bon, réponds-moi direct.</i>
+
+281
+00:15:59,960 --> 00:16:02,880
+<i>Est-ce que je peux t'appeler n'importe</i>
+<i>quel jour de la semaine à 4h du matin ?</i>
+
+282
+00:16:03,000 --> 00:16:05,680
+<i>T'acceptes de travailler le dimanche à</i>
+<i>faire n'importe quoi pour n'importe qui ?</i>
+
+283
+00:16:05,800 --> 00:16:08,440
+<i>Ça te pose un problème</i>
+<i>de ne plus avoir aucune des tes soirées ?</i>
+
+284
+00:16:08,560 --> 00:16:10,800
+<i>Oui. Oui. Et non.</i>
+
+285
+00:16:12,400 --> 00:16:13,480
+<i>Oui pour tout !</i>
+
+286
+00:16:13,680 --> 00:16:14,640
+<i>Bon.</i>
+
+287
+00:16:16,000 --> 00:16:17,080
+<i>Tu peux commencer tout de suite ?</i>
+
+288
+00:16:17,200 --> 00:16:21,040
+<i>Je peux pas mentir à Cécile.</i>
+<i>Cécile, c'est Cécile. Je l'aime trop.</i>
+
+289
+00:16:22,160 --> 00:16:23,720
+<i>Qui parle de mensonges ?</i>
+
+290
+00:16:24,400 --> 00:16:26,800
+<i>Il faut pas mentir,</i>
+<i>faut juste pas lui dire la vérité.</i>
+
+291
+00:16:27,960 --> 00:16:30,480
+<i>L'âge, c'est la seule chose</i>
+<i>sur laquelle tu peux rien changer.</i>
+
+292
+00:16:31,320 --> 00:16:33,960
+<i>Y a rien de plus fragile qu'une actrice</i>
+<i>qui vient de passer les 40 ans.</i>
+
+293
+00:16:34,120 --> 00:16:36,480
+<i>40 ans pour une actrice,</i>
+<i>c'est comme 60 ans pour les autres femmes</i>
+
+294
+00:16:36,640 --> 00:16:38,040
+<i>ou 80 ans pour un homme.</i>
+
+295
+00:16:38,720 --> 00:16:40,720
+<i>La force d'un acteur, c'est sa fragilité.</i>
+
+296
+00:16:40,840 --> 00:16:43,800
+<i>Et pour une actrice encore plus.</i>
+<i>C'est comme un verre en cristal.</i>
+
+297
+00:16:43,960 --> 00:16:46,560
+<i>On veut tous boire dans ce verre délicat.</i>
+<i>L'avoir en main, l'admirer,</i>
+
+298
+00:16:46,680 --> 00:16:48,720
+<i>mais on sait tous que c'est très fragile.</i>
+
+299
+00:16:48,840 --> 00:16:50,400
+<i>Toi, ton boulot, c'est de la préserver.</i>
+
+300
+00:16:50,520 --> 00:16:52,360
+<i>Je sais, mais...</i>
+
+301
+00:16:54,360 --> 00:16:55,200
+<i>Tu veux que je m'en occupe ?</i>
+
+302
+00:16:55,760 --> 00:16:58,000
+<i>Non, tu plaisantes ?</i>
+<i>Je vais me débrouiller tout seul.</i>
+
+303
+00:16:58,120 --> 00:16:59,160
+<i>Non...</i>
+
+304
+00:16:59,480 --> 00:17:01,720
+<i>Allez, vas-y. Tu vas louper ton vol.</i>
+
+305
+00:17:04,040 --> 00:17:07,160
+<i>Et tu oublies tout. Tu lâches tout.</i>
+
+306
+00:17:08,320 --> 00:17:09,520
+<i>Et tu reviens très vite.</i>
+
+307
+00:17:18,079 --> 00:17:19,839
+<i>- [Hervé] Il est où ?</i>
+<i>- [Noémie] Il est là.</i>
+
+308
+00:17:20,760 --> 00:17:22,560
+<i>[Andréa] Samuel, bonnes vacances !</i>
+
+309
+00:17:22,680 --> 00:17:25,480
+<i>- Fais gaffe au soleil.</i>
+<i>- [Sofia] Au revoir, Samuel !</i>
+
+310
+00:17:27,359 --> 00:17:29,480
+<i>Vamos a la playa</i><span style="style_2"> !</i>
+
+311
+00:17:29,640 --> 00:17:31,640
+<i>Ton chapeau, bien enfoncé !</i>
+
+312
+00:17:36,800 --> 00:17:38,960
+<i>- Il va me manquer.</i>
+<i>- Oh !</i>
+
+313
+00:17:39,080 --> 00:17:39,920
+<i>Je te jure.</i>
+
+314
+00:17:45,200 --> 00:17:46,360
+<i>[elle soupire]</i>
+
+315
+00:17:46,480 --> 00:17:48,160
+<i>Donne-toi du mou, le temps d'y réfléchir.</i>
+
+316
+00:17:48,280 --> 00:17:51,320
+<i>Plus je réfléchis, plus je me dis</i>
+<i>qu'il y a rien à réfléchir.</i>
+
+317
+00:17:51,480 --> 00:17:52,960
+<i>Et là, qu'est-ce que tu fais ?</i>
+
+318
+00:17:53,080 --> 00:17:55,200
+<i>Je réfléchis encore un petit peu.</i>
+<i>On sait jamais.</i>
+
+319
+00:17:55,320 --> 00:17:56,960
+<i>[sonnerie du portable]</i>
+<i>Oh !</i>
+
+320
+00:17:59,000 --> 00:18:01,120
+<i>- Ne réponds pas.</i>
+<i>- Je mets juste sur silencieux.</i>
+
+321
+00:18:01,240 --> 00:18:04,480
+<i>- Ça me stresse trop, cette sonnerie.</i>
+<i>- Donne ça. T'as rejeté l'appel.</i>
+
+322
+00:18:07,320 --> 00:18:09,600
+<i>Si ! T'as rejeté</i>
+<i>l'appel de Cécile de France.</i>
+
+323
+00:18:09,760 --> 00:18:14,520
+<i>Oh, putain ! Non, mais c'est comme</i>
+<i>si tu lui avais raccroché au nez !</i>
+
+324
+00:18:14,640 --> 00:18:15,600
+<i>- Putain.</i>
+<i>- Mais si !</i>
+
+325
+00:18:15,760 --> 00:18:17,920
+<i>Monsieur a raccroché au nez</i>
+<i>de Cécile de France !</i>
+
+326
+00:18:18,080 --> 00:18:19,600
+<i>- Non, je...</i>
+<i>- Mais si, putain !</i>
+
+327
+00:18:19,720 --> 00:18:21,680
+<i>Putain ! Putain ! Sors de là !</i>
+
+328
+00:18:21,840 --> 00:18:25,160
+<i>Sors de là ! Putain, sors de là !</i>
+<i>Il a raccroché au nez</i>
+
+329
+00:18:25,280 --> 00:18:27,080
+<i>de Cécile de France, regarde !</i>
+
+330
+00:18:27,200 --> 00:18:28,720
+<i>Une star !</i>
+
+331
+00:18:29,560 --> 00:18:31,640
+<i>Chaque agent a en moyenne 80 comédiens.</i>
+
+332
+00:18:31,760 --> 00:18:33,800
+<i>On les aide à trouver des rôles,</i>
+<i>on négocie leurs contrats,</i>
+
+333
+00:18:33,920 --> 00:18:36,040
+<i>on les accompagne</i>
+<i>dans la gestion de leur carrière.</i>
+
+334
+00:18:36,160 --> 00:18:38,240
+<i>En échange, on prend 10 %</i>
+<i>de leur rémunération.</i>
+
+335
+00:18:38,400 --> 00:18:41,720
+<i>Alors, je te présente Hervé,</i>
+<i>l'assistant de Gabriel Sarda.</i>
+
+336
+00:18:41,840 --> 00:18:44,400
+<i>Noémie, l'assistante</i>
+<i>de Mathias Barneville. Et...</i>
+
+337
+00:18:44,760 --> 00:18:46,720
+<i>- Pardon, comment tu t'appelles ?</i>
+<i>- Camille.</i>
+
+338
+00:18:46,840 --> 00:18:48,040
+<i>Camille. Voilà.</i>
+
+339
+00:18:48,800 --> 00:18:51,440
+<i>Donc, tu te mets là.</i>
+<i>Dans un premier temps, tu prends</i>
+
+340
+00:18:51,560 --> 00:18:53,480
+<i>tous les appels, tu notes tout.</i>
+<i>Et tu ne dis rien d'autre que :</i>
+
+341
+00:18:53,600 --> 00:18:55,400
+<i>"Elle est en rendez-vous à l'extérieur."</i>
+
+342
+00:18:57,920 --> 00:19:00,320
+<i>Surtout tu dis pas :</i>
+<i>"Elle vous rappellera", OK ?</i>
+
+343
+00:19:00,440 --> 00:19:01,320
+<i>À toute.</i>
+
+344
+00:19:05,400 --> 00:19:07,400
+<i>Donc, toi, t'es l'assistante</i>
+<i>de Mathias Barneville ?</i>
+
+345
+00:19:07,880 --> 00:19:08,760
+<i>Oui.</i>
+
+346
+00:19:08,960 --> 00:19:10,880
+<i>- Il est comment ?</i>
+<i>- Très bien.</i>
+
+347
+00:19:11,160 --> 00:19:12,000
+<i>[Hervé] "Très bien."</i>
+
+348
+00:19:12,120 --> 00:19:13,800
+<i>Pour tout le monde,</i>
+<i>c'est l'agent le plus horrible du monde,</i>
+
+349
+00:19:13,920 --> 00:19:15,400
+<i>mais pour Noémie, c'est l'homme idéal.</i>
+
+350
+00:19:15,520 --> 00:19:17,280
+<i>- Oh !</i>
+<i>- "Votre femme a téléphoné.</i>
+
+351
+00:19:17,400 --> 00:19:20,120
+<i>M. Barneville, êtes-vous sûr</i>
+<i>de vouloir continuer à vivre avec elle ?"</i>
+
+352
+00:19:21,280 --> 00:19:23,240
+<i>[il halète]</i>
+<i>[sonnerie du téléphone]</i>
+
+353
+00:19:23,360 --> 00:19:24,640
+<i>N'importe quoi !</i>
+
+354
+00:19:24,760 --> 00:19:26,240
+<i>C'est ce que tu fais, ma vieille.</i>
+
+355
+00:19:26,360 --> 00:19:27,400
+<i>[Hervé] Oui, Sofia ?</i>
+
+356
+00:19:28,480 --> 00:19:29,320
+<i>Oui ?</i>
+
+357
+00:19:33,120 --> 00:19:34,200
+<i>C'est la compta.</i>
+
+358
+00:19:34,360 --> 00:19:36,720
+<i>Je les adore. J'ai rien à leur dire,</i>
+<i>mais je les adore.</i>
+
+359
+00:19:36,880 --> 00:19:39,360
+<i>- Bonjour, je fais visiter.</i>
+<i>- Salut, Hervé.</i>
+
+360
+00:19:39,480 --> 00:19:40,720
+<i>- Bonjour.</i>
+<i>- Camille.</i>
+
+361
+00:19:43,120 --> 00:19:45,640
+<i>Une des deux filles couche avec le mec,</i>
+<i>mais j'ai pas le droit de dire qui.</i>
+
+362
+00:19:45,760 --> 00:19:47,800
+<i>- Ah ouais ?</i>
+<i>- Ouais. La blonde.</i>
+
+363
+00:19:49,360 --> 00:19:52,280
+<i>Comme je te disais,</i>
+<i>tu vois, là-bas, y a tous les...</i>
+
+364
+00:19:52,960 --> 00:19:55,280
+<i>Vous dites comment ?</i>
+<i>Des classeurs, en fait ?</i>
+
+365
+00:20:02,640 --> 00:20:04,760
+<i>Maintenant, je vais te montrer</i>
+<i>le département juridique.</i>
+
+366
+00:20:04,880 --> 00:20:05,760
+<i>OK.</i>
+
+367
+00:20:09,080 --> 00:20:10,240
+<i>Le nerf de la guerre.</i>
+
+368
+00:20:10,360 --> 00:20:12,080
+<i>[voix ascenseur] </i><span style="style_1">Fermeture des portes.</i>
+
+369
+00:20:12,920 --> 00:20:15,040
+<i>[Hervé] Là-bas, y a tous les contrats...</i>
+
+370
+00:20:16,360 --> 00:20:17,560
+<i>Ouverture des portes.</i>
+
+371
+00:20:17,680 --> 00:20:19,160
+<i>L'ouverture</i>
+<i>d'une centrale nucléaire en Iran,</i>
+
+372
+00:20:19,280 --> 00:20:21,240
+<i>c'est moins compliqué</i>
+<i>que le contrat d'une star.</i>
+
+373
+00:20:21,880 --> 00:20:25,120
+<i>Ici, on met tous les scénarios</i>
+<i>qu'on reçoit pour nos acteurs.</i>
+
+374
+00:20:25,240 --> 00:20:27,400
+<i>Le scénario, c'est la base de tout.</i>
+
+375
+00:20:27,520 --> 00:20:30,280
+<i>Pas de scénario, pas de film,</i>
+<i>pas de financement, pas de comédiens,</i>
+
+376
+00:20:30,400 --> 00:20:32,760
+<i>pas d'agents, pas d'assistants. OK ?</i>
+
+377
+00:20:33,480 --> 00:20:35,520
+<i>Là, y en a moins. C'est qui, Arlette ?</i>
+
+378
+00:20:35,640 --> 00:20:38,120
+<i>Arlette Azémar,</i>
+<i>la plus vieille agent de Paris.</i>
+
+379
+00:20:38,280 --> 00:20:40,560
+<i>D'ailleurs, elle dit pas agent,</i>
+<i>elle dit impresario.</i>
+
+380
+00:20:40,680 --> 00:20:43,240
+<i>Tu vois les dinosaures de</i><span style="style_1"> Jurassic Park ?</i>
+<i>C'est elle qui les représentait.</i>
+
+381
+00:20:43,360 --> 00:20:46,440
+<i>- Et Andréa, elle lit pas ?</i>
+<i>- Tu rigoles ?</i>
+
+382
+00:20:46,560 --> 00:20:48,680
+<i>Ça existe pas "Andréa lit pas".</i>
+<i>Andréa lit tout !</i>
+
+383
+00:20:48,840 --> 00:20:50,600
+<i>Je dis bien tout.</i>
+<i>De la grosse comédie potache</i>
+
+384
+00:20:50,720 --> 00:20:52,400
+<i>au petit film indépendant kurde.</i>
+
+385
+00:20:52,560 --> 00:20:55,600
+<i>Elle veut pas risquer de passer</i>
+<i>à côté de quelque chose de grand.</i>
+
+386
+00:20:56,600 --> 00:20:58,560
+<i>Qu'est-ce que ça fout là, ça ?</i>
+
+387
+00:20:58,960 --> 00:21:00,560
+<i>C'est à Gabriel, ça.</i>
+
+388
+00:21:01,000 --> 00:21:02,000
+<i>Par contre, tu devrais la surveiller.</i>
+
+389
+00:21:02,120 --> 00:21:04,160
+<i>Elle a tendance à piquer</i>
+<i>les scénars des autres.</i>
+
+390
+00:21:04,600 --> 00:21:05,960
+<i>- Salut, Antoine.</i>
+<i>- Salut.</i>
+
+391
+00:21:06,120 --> 00:21:07,960
+<i>- Je te présente Camille.</i>
+<i>- Salut.</i>
+
+392
+00:21:08,080 --> 00:21:11,560
+<i>Là, c'est la salle de presse.</i>
+<i>On appelle ça la boutique, nous.</i>
+
+393
+00:21:12,800 --> 00:21:13,640
+<i>Bonjour, Nathalie.</i>
+
+394
+00:21:14,480 --> 00:21:15,520
+<i>Bonjour.</i>
+
+395
+00:21:15,640 --> 00:21:18,200
+<i>Je te présente Camille,</i>
+<i>la nouvelle assistante d'Andréa.</i>
+
+396
+00:21:18,320 --> 00:21:19,200
+<i>Bonjour.</i>
+
+397
+00:21:19,560 --> 00:21:21,880
+<i>Qu'avons-nous en boutique, mademoiselle ?</i>
+
+398
+00:21:22,000 --> 00:21:23,400
+<i>Qu'est-ce qu'on a en boutique ?</i>
+
+399
+00:21:23,520 --> 00:21:26,240
+<i>On a un costume Saint Laurent</i>
+<i>pour JoeyStarr.</i>
+
+400
+00:21:26,360 --> 00:21:27,160
+<i>Ouah !</i>
+
+401
+00:21:27,280 --> 00:21:30,760
+<i>Une robe Prada pour Léa Seydoux,</i>
+<i>quelques parfums, plein de crèmes...</i>
+
+402
+00:21:30,920 --> 00:21:33,440
+<i>Tu l'as, le sérum</i>
+<i>concentré clarté de Sothys ?</i>
+
+403
+00:21:33,560 --> 00:21:35,840
+<i>Non, désolée. Toujours pas.</i>
+
+404
+00:21:36,480 --> 00:21:38,320
+<i>Quand les stars récupèrent pas</i>
+<i>leurs cadeaux, on se sert.</i>
+
+405
+00:21:39,840 --> 00:21:41,280
+<i>Et c'est vrai pour Cécile de France ?</i>
+
+406
+00:21:41,400 --> 00:21:43,760
+<i>Elle s'est faite refusée pour le Tarantino</i>
+<i>à cause de son âge ?</i>
+
+407
+00:21:43,880 --> 00:21:46,200
+<i>Oui. Elle va avoir 40 ans, quand même.</i>
+
+408
+00:21:48,480 --> 00:21:50,360
+<i>T'as vu, Nathalie a la plus belle vue</i>
+
+409
+00:21:50,480 --> 00:21:51,680
+<i>de l'agence.</i>
+
+410
+00:21:54,000 --> 00:21:55,080
+<i>[Hervé] Cécile !</i>
+
+411
+00:21:58,560 --> 00:21:59,440
+<i>Y a Cécile !</i>
+
+412
+00:21:59,960 --> 00:22:02,560
+<i>Y a Cécile ! Gabriel !</i>
+
+413
+00:22:02,880 --> 00:22:04,720
+<i>- Cécile est là, elle arrive.</i>
+<i>- Merde, où ?</i>
+
+414
+00:22:04,840 --> 00:22:07,520
+<i>- Je pense qu'elle est en bas.</i>
+<i>- Elle est en bas ?</i>
+
+415
+00:22:07,640 --> 00:22:09,320
+<i>- Elle monte ?</i>
+<i>- Elle monte.</i>
+
+416
+00:22:09,440 --> 00:22:11,520
+<i>- Elle est où ?</i>
+<i>- Là-bas, dans l'ascenseur.</i>
+
+417
+00:22:15,720 --> 00:22:17,400
+<i>Ouverture des portes.</i>
+
+418
+00:22:26,400 --> 00:22:27,400
+<i>On se dit ça.</i>
+
+419
+00:22:27,520 --> 00:22:29,560
+<i>- [Noémie] Hervé, tu peux...</i>
+<i>- Attends.</i>
+
+420
+00:22:29,680 --> 00:22:32,240
+<i>- Bah, Hervé ?</i>
+<i>- Ah, Hervé !</i>
+
+421
+00:22:32,800 --> 00:22:33,720
+<i>[Noémie] Hervé ?</i>
+
+422
+00:22:34,240 --> 00:22:36,040
+<i>Hervé ! Bonjour.</i>
+
+423
+00:22:36,160 --> 00:22:38,240
+<i>- Bonjour, Cécile.</i>
+<i>- J'ai encore un agent dans la maison ?</i>
+
+424
+00:22:38,520 --> 00:22:39,800
+<i>Oui, pourquoi ?</i>
+
+425
+00:22:40,080 --> 00:22:43,920
+<i>Je suis peut-être parano, mais</i>
+<i>j'ai l'impression que Gabriel me fuit.</i>
+
+426
+00:22:44,040 --> 00:22:46,640
+<i>- Oui ?</i>
+<i>- Qu'est-ce que je veux dire ?</i>
+
+427
+00:22:47,000 --> 00:22:49,400
+<i>Il est 13h, je vais aller déjeuner.</i>
+<i>Est-ce que vous voulez...</i>
+
+428
+00:22:49,520 --> 00:22:52,240
+<i>- Ah oui. Que je déjeune avec vous ?</i>
+<i>- Très bien.</i>
+
+429
+00:22:52,360 --> 00:22:54,040
+<i>- Tout de suite, alors.</i>
+<i>- Oui.</i>
+
+430
+00:22:54,320 --> 00:22:56,200
+<i>Qu'est-ce qui se passe ?</i>
+<i>À quoi vous jouez ?</i>
+
+431
+00:22:58,480 --> 00:22:59,480
+<i>Je suis désolé.</i>
+
+432
+00:22:59,600 --> 00:23:02,000
+<i>Je dois absolument</i>
+<i>prendre cet appel. C'est urgent.</i>
+
+433
+00:23:02,680 --> 00:23:03,640
+<i>Oui, allô ?</i>
+
+434
+00:23:03,960 --> 00:23:06,360
+<i>T'es toute belle, toi !</i>
+
+435
+00:23:06,520 --> 00:23:07,360
+<i>Oui ?</i>
+
+436
+00:23:07,480 --> 00:23:09,040
+<i>Ça fait des mois que j'attends</i>
+
+437
+00:23:09,200 --> 00:23:12,040
+<i>ton coup de fil quand même.</i>
+<i>Non, mais écoute...</i>
+
+438
+00:23:18,200 --> 00:23:19,800
+<i>Merde. Fait chier.</i>
+
+439
+00:23:29,360 --> 00:23:31,400
+<i>Merci. C'est super gentil.</i>
+
+440
+00:23:45,400 --> 00:23:46,600
+<i>Journée difficile ?</i>
+
+441
+00:23:47,120 --> 00:23:51,200
+<i>Difficile, non. Mais très spéciale.</i>
+
+442
+00:23:51,520 --> 00:23:54,960
+<i>Moi aussi. Tout ce bazar</i>
+<i>autour du Tarantino, ça me...</i>
+
+443
+00:23:56,440 --> 00:23:57,680
+<i>Je comprends.</i>
+
+444
+00:23:58,160 --> 00:24:00,280
+<i>Ça doit être un coup dur pour vous.</i>
+
+445
+00:24:00,960 --> 00:24:01,800
+<i>C'est-à-dire ?</i>
+
+446
+00:24:02,240 --> 00:24:04,560
+<i>Franchement, vous avez rien à regretter.</i>
+
+447
+00:24:04,680 --> 00:24:06,080
+<i>Vous, au moins,</i>
+<i>vous vous en foutez de tout ça.</i>
+
+448
+00:24:06,520 --> 00:24:07,360
+<i>Tout ça ?</i>
+
+449
+00:24:07,480 --> 00:24:10,160
+<i>Votre âge. Vous, vous assumez votre âge.</i>
+
+450
+00:24:10,600 --> 00:24:13,600
+<i>- Vous êtes belle naturellement.</i>
+<i>- Merci.</i>
+
+451
+00:24:15,880 --> 00:24:18,080
+<i>- Continuez, ça m'intéresse.</i>
+<i>- C'est vrai.</i>
+
+452
+00:24:18,280 --> 00:24:20,920
+<i>Les actrices américaines se ressemblent</i>
+<i>toutes à force d'être refaites.</i>
+
+453
+00:24:21,320 --> 00:24:23,400
+<i>C'est plus des actrices,</i>
+<i>c'est des Barbie en plastoc.</i>
+
+454
+00:24:23,800 --> 00:24:25,920
+<i>OK, ils ont dit que vous étiez</i>
+
+455
+00:24:26,040 --> 00:24:27,920
+<i>un peu trop âgée pour le rôle.</i>
+
+456
+00:24:28,040 --> 00:24:29,880
+<i>Quand on vous voit,</i>
+<i>c'est complètement débile.</i>
+
+457
+00:24:30,000 --> 00:24:32,520
+<i>Je rêverais d'être comme vous à votre âge.</i>
+
+458
+00:24:33,200 --> 00:24:35,080
+<i>- Ouverture des portes.</i>
+<span style="style_2">- Merci.</i>
+
+459
+00:24:37,200 --> 00:24:39,000
+<i>- Au revoir.</i>
+<i>- Au revoir.</i>
+
+460
+00:24:45,240 --> 00:24:46,600
+<i>[la porte du bâtiment s'ouvre]</i>
+
+461
+00:24:46,720 --> 00:24:47,920
+<i>- [Mathias] Bonjour, Cécile.</i>
+<i>- Bonjour.</i>
+
+462
+00:24:54,480 --> 00:24:55,680
+<i>Qu'est-ce que tu fais là ?</i>
+
+463
+00:24:56,200 --> 00:24:58,840
+<i>J'ai trouvé un travail. T'as vu ?</i>
+
+464
+00:24:59,200 --> 00:25:00,520
+<i>C'est génial.</i>
+
+465
+00:25:01,160 --> 00:25:02,200
+<i>Un travail ?</i>
+
+466
+00:25:02,800 --> 00:25:05,240
+<i>Je suis la nouvelle assistante</i>
+<i>d'Andréa Martel.</i>
+
+467
+00:25:06,440 --> 00:25:08,000
+<i>Mais c'est...</i>
+
+468
+00:25:08,120 --> 00:25:09,040
+<i>C'est...</i>
+
+469
+00:25:10,800 --> 00:25:14,160
+<i>Écoute, j'ai...</i>
+
+470
+00:25:14,560 --> 00:25:18,560
+<i>J'ai été un peu trop réactif, ce matin.</i>
+<i>Je m'attendais pas à te voir.</i>
+
+471
+00:25:18,640 --> 00:25:20,240
+<i>Mais parlons-en. Si tu veux que je t'aide</i>
+
+472
+00:25:20,360 --> 00:25:22,800
+<i>à trouver un travail dans le cinéma,</i>
+<i>y a pas de problèmes.</i>
+
+473
+00:25:22,920 --> 00:25:26,000
+<i>Non, c'est très gentil.</i>
+<i>Mais je suis hyper bien ici.</i>
+
+474
+00:25:27,440 --> 00:25:30,080
+<i>Tu me fais chier, Camille.</i>
+<i>C'est pas possible.</i>
+
+475
+00:25:30,200 --> 00:25:31,160
+<i>Pourquoi ?</i>
+
+476
+00:25:31,280 --> 00:25:34,840
+<i>Parce que tu peux pas,</i>
+<i>parce que c'est ma vie !</i>
+
+477
+00:25:35,000 --> 00:25:36,920
+<i>Tu veux rien me donner, y a pas</i>
+<i>de souci, je me sers toute seule.</i>
+
+478
+00:25:37,040 --> 00:25:38,400
+<i>Comme j'ai toujours fait !</i>
+
+479
+00:25:44,120 --> 00:25:45,360
+<i>Bonjour.</i>
+
+480
+00:25:51,280 --> 00:25:52,720
+<i>[elle bredouille]</i>
+
+481
+00:25:52,920 --> 00:25:54,720
+<i>En fait, tu... Vous...</i>
+
+482
+00:25:55,120 --> 00:25:58,640
+<i>Enfin, tu... Toi et lui, c'est...</i>
+
+483
+00:25:59,560 --> 00:26:00,960
+<i>Non, attends.</i>
+
+484
+00:26:01,080 --> 00:26:03,160
+<i>Mathias,</i>
+<i>je tiens à te dire qu'il est marié.</i>
+
+485
+00:26:03,280 --> 00:26:05,920
+<i>Hein ? Marié, marié. Très marié. Voilà.</i>
+
+486
+00:26:19,760 --> 00:26:22,040
+<i>Bonjour, vous êtes Cécile de France ?</i>
+
+487
+00:26:22,520 --> 00:26:23,880
+<i>Non, sa mère.</i>
+
+488
+00:26:24,320 --> 00:26:27,840
+<i>En fait, je suis pas</i>
+<i>une vraie standardiste.</i>
+
+489
+00:26:27,960 --> 00:26:29,200
+<i>Enfin, si...</i>
+
+490
+00:26:30,080 --> 00:26:32,160
+<i>Mais c'est pas</i>
+<i>comme si c'était une passion.</i>
+
+491
+00:26:32,320 --> 00:26:34,320
+<i>C'est un petit boulot à côté</i>
+<i>pour pas être la honte</i>
+
+492
+00:26:34,440 --> 00:26:37,000
+<i>de ma famille et de mon banquier,</i>
+<i>parce que lui...</i>
+
+493
+00:26:37,120 --> 00:26:39,480
+<i>En fait, je suis comédienne. Voilà.</i>
+
+494
+00:26:39,600 --> 00:26:40,720
+<i>C'est ça.</i>
+
+495
+00:26:42,040 --> 00:26:44,760
+<i>Et... Putain, il déchire le vin.</i>
+<i>C'est un truc de ouf !</i>
+
+496
+00:26:44,880 --> 00:26:45,960
+<i>Vous avez goûté ?</i>
+
+497
+00:26:46,360 --> 00:26:47,600
+<i>- Non.</i>
+<i>- C'est magnifique !</i>
+
+498
+00:26:47,760 --> 00:26:50,520
+<i>En fait, j'ai un spectacle</i>
+<i>à Porte des Lilas.</i>
+
+499
+00:26:50,640 --> 00:26:52,400
+<i>À Porte des Lilas, oui.</i>
+
+500
+00:26:53,280 --> 00:26:56,280
+<i>Du coup, ce serait trop bien</i>
+<i>si vous pouviez venir.</i>
+
+501
+00:26:56,600 --> 00:26:59,960
+<i>C'est le petit flyer de la pièce.</i>
+<i>Ça s'appelle </i><span style="style_1">L'absence</i><i>.</i>
+
+502
+00:27:06,800 --> 00:27:07,800
+<i>Merci.</i>
+
+503
+00:27:30,120 --> 00:27:32,360
+<i>Ça vous intéresse pas trop</i>
+<i>ce que je vous raconte ?</i>
+
+504
+00:27:32,840 --> 00:27:35,800
+<i>Non, pas du tout.</i>
+<i>C'est pas ce que vous croyez.</i>
+
+505
+00:27:36,800 --> 00:27:39,880
+<i>C'est juste que j'ai un problème</i>
+<i>de boulot à régler.</i>
+
+506
+00:27:40,040 --> 00:27:41,320
+<i>T'as un problème de boulot, Gabriel ?</i>
+
+507
+00:27:41,440 --> 00:27:42,560
+<i>Hé !</i>
+
+508
+00:27:43,400 --> 00:27:44,880
+<i>Y a Cécile... Super.</i>
+
+509
+00:27:46,480 --> 00:27:47,960
+<i>- Ça va ?</i>
+<i>- Très bien, et toi ?</i>
+
+510
+00:27:48,960 --> 00:27:50,480
+<i>Je t'ai appelé plein de fois.</i>
+
+511
+00:27:50,600 --> 00:27:53,240
+<i>Non, mais au boulot, ce matin,</i>
+<i>ça arrête pas.</i>
+
+512
+00:27:53,360 --> 00:27:54,720
+<i>Toujours pas de nouvelles des Américains ?</i>
+
+513
+00:27:54,840 --> 00:27:57,040
+<i>Alors, euh... Ah !</i>
+
+514
+00:27:57,480 --> 00:27:59,480
+<i>C'est drôle,</i>
+<i>j'étais justement au téléphone</i>
+
+515
+00:27:59,600 --> 00:28:02,920
+<i>- avec Miranda Jones qui me disait...</i>
+<i>- [Sofia] Ah oui, Miranda.</i>
+
+516
+00:28:03,680 --> 00:28:05,640
+<i>Dis-moi les choses sans filtrer.</i>
+<i>Dis-moi la vérité.</i>
+
+517
+00:28:06,120 --> 00:28:10,280
+<i>Je te dis toujours la vérité.</i>
+<i>Je te mens jamais. Cécile, tu le sais.</i>
+
+518
+00:28:10,440 --> 00:28:13,480
+<i>Non. C'est juste que je gère</i>
+<i>les émotions contradictoires.</i>
+
+519
+00:28:13,640 --> 00:28:14,680
+<i>[Cécile] Vas-y !</i>
+
+520
+00:28:15,760 --> 00:28:18,680
+<i>Écoute, voilà. C'est très simple.</i>
+
+521
+00:28:18,840 --> 00:28:21,920
+<i>Ils ont un petit problème</i>
+<i>de cohérence historique sur le film.</i>
+
+522
+00:28:22,040 --> 00:28:25,520
+<i>- Ah oui ?</i>
+<i>- Ils ont réalisé qu'au Far West,</i>
+
+523
+00:28:25,880 --> 00:28:29,680
+<i>au 18e siècle, les femmes se mariaient</i>
+
+524
+00:28:29,800 --> 00:28:32,520
+<i>à 15 ans,</i>
+<i>elles avaient des enfants à 16, 17,</i>
+
+525
+00:28:32,680 --> 00:28:34,360
+<i>et mourraient à 30...</i>
+
+526
+00:28:34,480 --> 00:28:36,120
+<i>- Trente-cinq max.</i>
+<i>- Oui.</i>
+
+527
+00:28:36,240 --> 00:28:38,880
+<i>En couche ou du choléra, de la syphilis...</i>
+
+528
+00:28:39,000 --> 00:28:40,960
+<i>- Moi non plus, je savais pas.</i>
+<i>- Moi non plus.</i>
+
+529
+00:28:41,080 --> 00:28:43,200
+<i>Du coup, ils ont pensé que...</i>
+
+530
+00:28:44,080 --> 00:28:48,160
+<i>Ils ont jugé qu'il valait mieux</i>
+<i>prendre un homme.</i>
+
+531
+00:28:48,960 --> 00:28:49,800
+<i>Un homme ?</i>
+
+532
+00:28:50,120 --> 00:28:52,680
+<i>Oui, je sais que c'est dingue.</i>
+<i>C'est ce que je leur ai dit.</i>
+
+533
+00:28:52,800 --> 00:28:55,120
+<i>- Ça a rien à voir avec moi ?</i>
+<i>- Mais pas du tout !</i>
+
+534
+00:28:55,840 --> 00:28:57,840
+<i>Pas du tout. Au contraire, elle m'a dit :</i>
+
+535
+00:28:57,960 --> 00:29:00,480
+<i>"Vraiment, Cécile, elle est formidable.</i>
+
+536
+00:29:00,600 --> 00:29:01,760
+<i>She was great.</i>
+
+537
+00:29:01,920 --> 00:29:04,240
+<i>Elle nous a donné le meilleur, mais..."</i>
+
+538
+00:29:04,800 --> 00:29:05,800
+<i>Écoute.</i>
+
+539
+00:29:06,640 --> 00:29:09,720
+<i>Cécile, je sais que tu es super déçue.</i>
+
+540
+00:29:09,840 --> 00:29:14,600
+<i>Mais je te jure qu'on va rebondir.</i>
+<i>On va trouver un autre rôle formidable.</i>
+
+541
+00:29:14,720 --> 00:29:16,120
+<i>Tu sais à quel point</i>
+<i>je le voulais, ce rôle.</i>
+
+542
+00:29:16,560 --> 00:29:19,600
+<i>Je sais, je sais. Après...</i>
+
+543
+00:29:19,960 --> 00:29:23,560
+<i>Je sais pas, mais je suis pas sûr</i>
+<i>que c'était un truc pour toi.</i>
+
+544
+00:29:23,720 --> 00:29:27,240
+<i>Et puis le scénario,</i>
+<i>ça sera pas un grand Tarantino.</i>
+
+545
+00:29:27,360 --> 00:29:29,200
+<i>- Qu'est-ce que tu fais ?</i>
+<i>- Je vais chercher un autre agent.</i>
+
+546
+00:29:29,400 --> 00:29:30,280
+<i>[Gabriel] Quoi ?</i>
+
+547
+00:29:31,080 --> 00:29:32,840
+<i>T'es un menteur et un lâche.</i>
+
+548
+00:29:32,960 --> 00:29:35,480
+<i>Je sais qu'ils veulent pas de moi</i>
+<i>à cause de mon âge.</i>
+
+549
+00:29:35,600 --> 00:29:38,440
+<i>À quoi ça sert que je te donne 10 %</i>
+<i>si tu fais rien pour me défendre ?</i>
+
+550
+00:29:39,920 --> 00:29:43,080
+<i>Je te jure.</i>
+<i>Je leur ai téléphoné, j'ai pas arrêté.</i>
+
+551
+00:29:43,200 --> 00:29:45,560
+<i>J'ai tout essayé.</i>
+<i>Ils ont rien voulu entendre.</i>
+
+552
+00:29:46,000 --> 00:29:48,040
+<i>Ils ont... Cécile.</i>
+
+553
+00:29:54,800 --> 00:29:55,640
+<i>Fait chier.</i>
+
+554
+00:30:00,000 --> 00:30:01,400
+<i>Vous vouliez me voir ?</i>
+
+555
+00:30:01,520 --> 00:30:02,520
+<i>Oui, ferme la porte.</i>
+
+556
+00:30:06,520 --> 00:30:09,720
+<i>Je voudrais que tu me trouves combien</i>
+<i>Mathias a proposé à Guillaume Canet.</i>
+
+557
+00:30:10,640 --> 00:30:12,160
+<i>- Vous lui avez pas demandé ?</i>
+<i>- Si.</i>
+
+558
+00:30:12,280 --> 00:30:14,480
+<i>Mais aujourd'hui, il est en mode sniper,</i>
+<i>il veut pas me dire.</i>
+
+559
+00:30:15,200 --> 00:30:17,840
+<i>Mais s'il vous dit non à vous,</i>
+<i>pourquoi il me dirait oui à moi ?</i>
+
+560
+00:30:17,960 --> 00:30:19,200
+<i>Il va te dire non aussi.</i>
+
+561
+00:30:19,320 --> 00:30:21,520
+<i>Je fais comment, alors ?</i>
+
+562
+00:30:22,080 --> 00:30:23,520
+<i>Tu te démerdes, ma grande.</i>
+
+563
+00:30:34,560 --> 00:30:35,960
+<i>Il est pas là, Hervé ?</i>
+
+564
+00:30:39,920 --> 00:30:41,600
+<i>- Noémie.</i>
+<i>- Quoi ?</i>
+
+565
+00:30:42,400 --> 00:30:44,680
+<i>- J'ai un souci.</i>
+<i>- Ah bon ?</i>
+
+566
+00:30:45,080 --> 00:30:46,880
+<i>Ouais, je pense que tu pourrais m'aider.</i>
+
+567
+00:30:47,000 --> 00:30:48,080
+<i>Je crois pas, non.</i>
+
+568
+00:30:48,560 --> 00:30:49,760
+<i>S'il te plaît.</i>
+
+569
+00:30:51,000 --> 00:30:52,920
+<i>Sérieux, j'ai rien fait avec Mathias, OK ?</i>
+
+570
+00:30:56,680 --> 00:30:58,000
+<i>Non, mais pardon ?</i>
+
+571
+00:30:58,720 --> 00:31:01,200
+<i>Non, mais ça va. Y a pas de problème.</i>
+
+572
+00:31:01,320 --> 00:31:02,760
+<i>Je croyais que tu...</i>
+
+573
+00:31:03,840 --> 00:31:06,320
+<i>Pourquoi vous vous engueuliez</i>
+<i>dans le couloir ?</i>
+
+574
+00:31:06,440 --> 00:31:09,240
+<i>Parce que tu viens juste</i>
+<i>d'arriver quand même.</i>
+
+575
+00:31:09,360 --> 00:31:12,000
+<i>Non, mais c'est rien.</i>
+<i>C'est parce que je...</i>
+
+576
+00:31:12,120 --> 00:31:16,040
+<i>Je sortais, je l'ai bousculé,</i>
+<i>je lui ai fait mal, il s'est énervé.</i>
+
+577
+00:31:17,760 --> 00:31:20,480
+<i>Bon, OK. C'est quoi, ton souci ?</i>
+
+578
+00:31:21,040 --> 00:31:22,680
+<i>J'y connais rien en contrat d'acteur.</i>
+
+579
+00:31:22,800 --> 00:31:25,240
+<i>Andréa me parle de clauses, d'échéances...</i>
+
+580
+00:31:25,360 --> 00:31:28,720
+<i>Je comprends rien. Je pourrais pas</i>
+<i>avoir un contrat de Mathias ?</i>
+
+581
+00:31:29,280 --> 00:31:31,720
+<i>Un récent. Je sais pas, celui de Canet.</i>
+
+582
+00:31:31,840 --> 00:31:34,720
+<i>Ah non, non ! Non, non. Alors là, non !</i>
+
+583
+00:31:34,840 --> 00:31:36,520
+<i>C'est pas possible, ça.</i>
+
+584
+00:31:36,640 --> 00:31:38,840
+<i>Mathias est catégorique là-dessus,</i>
+<i>il veut pas qu'on lise ses contrats.</i>
+
+585
+00:31:38,960 --> 00:31:40,760
+<i>Alors, il faut pas me demander</i>
+<i>ce genre de choses.</i>
+
+586
+00:31:41,160 --> 00:31:42,920
+<i>Mathias pourrait me fouetter</i>
+<i>s'il apprenait ça.</i>
+
+587
+00:31:43,320 --> 00:31:44,880
+<i>Il l'apprendra jamais.</i>
+
+588
+00:31:45,000 --> 00:31:48,240
+<i>Qui est le petit salopard</i>
+<i>qui a tout balancé à Cécile ?</i>
+
+589
+00:31:50,640 --> 00:31:52,480
+<i>Il est où, ce traître ?</i>
+
+590
+00:31:54,040 --> 00:31:57,520
+<i>Elle est où, la taupe ? Y en a qui bossent</i>
+<i>en sous-marin pour la concurrence ?</i>
+
+591
+00:31:57,640 --> 00:31:58,720
+<i>[Andréa] Qu'est-ce qui se passe ?</i>
+
+592
+00:31:58,840 --> 00:32:02,960
+<i>[Gabriel] Y a quelqu'un qui a dit</i>
+<i>que Cécile était trop âgée pour le rôle.</i>
+
+593
+00:32:04,080 --> 00:32:07,560
+<i>C'est l'agence, Starmédia ?</i>
+<i>Ils sont venus vous filer du pognon ?</i>
+
+594
+00:32:07,680 --> 00:32:08,840
+<i>Arrête, c'est de la parano.</i>
+
+595
+00:32:08,960 --> 00:32:11,360
+<i>Mais elle est partie, elle m'a quitté.</i>
+
+596
+00:32:11,480 --> 00:32:13,840
+<i>Moi, je l'ai vue grandir</i>
+<i>et devenir ce qu'elle est.</i>
+
+597
+00:32:13,960 --> 00:32:15,640
+<i>Enfin, il est plus jeune qu'elle.</i>
+
+598
+00:32:15,760 --> 00:32:18,240
+<i>Je vous jure que si je trouve celui qui...</i>
+
+599
+00:32:20,440 --> 00:32:22,840
+<i>- [Camille] Lâche-moi.</i>
+<i>- C'est quoi, ce bordel ?</i>
+
+600
+00:32:22,960 --> 00:32:25,960
+<i>- Il a encore perdu son agrafeuse ?</i>
+<i>- Cécile l'a quitté.</i>
+
+601
+00:32:26,320 --> 00:32:27,840
+<i>Avec tout ce qu'elle rapportait...</i>
+
+602
+00:32:27,960 --> 00:32:29,560
+<i>[on frappe]</i>
+<i>Oui, Mathias ?</i>
+
+603
+00:32:30,840 --> 00:32:32,040
+<i>Oui, bien sûr.</i>
+
+604
+00:32:33,720 --> 00:32:36,640
+<i>Trouvez-moi le téléphone de Miranda Jones,</i>
+<i>la productrice de Tarantino.</i>
+
+605
+00:32:36,760 --> 00:32:37,840
+<i>Je dois la voir avant qu'elle parte.</i>
+
+606
+00:32:38,600 --> 00:32:40,400
+<i>D'accord, je m'en occupe tout de suite.</i>
+
+607
+00:32:51,600 --> 00:32:55,160
+<i>Miranda, vous êtes superbe.</i>
+<i>Paris vous va merveilleusement bien.</i>
+
+608
+00:32:55,280 --> 00:32:58,240
+<i>[accent américain]</i>
+<i>Merci, Mathias. J'adore Paris.</i>
+
+609
+00:33:00,200 --> 00:33:04,360
+<i>J'y habitais quand j'étais étudiante.</i>
+<i>Il y a longtemps, je ne veux pas dire.</i>
+
+610
+00:33:05,360 --> 00:33:07,360
+<i>Avant tout,</i>
+<i>je tenais à vous mettre être à l'aise :</i>
+
+611
+00:33:07,480 --> 00:33:11,040
+<i>nous comprenons très bien les hésitations</i>
+<i>de Tarantino sur le casting.</i>
+
+612
+00:33:11,160 --> 00:33:13,520
+<i>Le doute fait partie</i>
+<i>du charme des grands artistes.</i>
+
+613
+00:33:13,640 --> 00:33:15,240
+<i>Oui.</i>
+
+614
+00:33:15,360 --> 00:33:18,560
+<i>Quentin a tellement de talent.</i>
+<i>Pour Cécile,</i>
+
+615
+00:33:18,680 --> 00:33:21,360
+<i>c'est très désolé,</i>
+<i>mais il a pensé encore le personnage.</i>
+
+616
+00:33:21,480 --> 00:33:24,840
+<i>Il veut une actrice de moins de 30 ans</i>
+<i>et Cécile est...</i>
+
+617
+00:33:24,960 --> 00:33:26,680
+<i>Oui, elle a un peu plus.</i>
+
+618
+00:33:26,800 --> 00:33:28,360
+<i>Un peu plus ? </i><span style="style_1">Forty-one</i><i>.</i>
+
+619
+00:33:28,480 --> 00:33:30,600
+<i>Forty</i><span style="style_2">. Elle va juste avoir 40.</i>
+
+620
+00:33:30,720 --> 00:33:33,320
+<i>Elle aura 41, quand on fait le film.</i>
+
+621
+00:33:33,440 --> 00:33:36,200
+<i>Oui, mais avouez, elle en fait 30.</i>
+
+622
+00:33:36,320 --> 00:33:39,520
+<i>Je suis désolée, Mathias.</i>
+<i>La décision est prise.</i>
+
+623
+00:33:43,840 --> 00:33:46,680
+<i>Si je peux me permettre,</i>
+<i>vous devriez goûter les macarons.</i>
+
+624
+00:33:46,800 --> 00:33:48,480
+<i>C'est leur spécialité ici.</i>
+
+625
+00:33:48,600 --> 00:33:50,880
+<i>Merci. Hum !</i>
+
+626
+00:33:56,680 --> 00:33:59,200
+<i>Je te jure, je sais plus quoi faire.</i>
+
+627
+00:33:59,280 --> 00:34:00,440
+<i>Plus du tout.</i>
+
+628
+00:34:03,040 --> 00:34:04,480
+<i>Tu veux pas lui parler, toi ?</i>
+
+629
+00:34:04,600 --> 00:34:07,560
+<i>- Moi ? Que veux-tu que je lui dise ?</i>
+<i>- Je sais pas.</i>
+
+630
+00:34:07,680 --> 00:34:09,920
+<i>T'es une femme,</i>
+<i>vous avez le même âge, tu sauras.</i>
+
+631
+00:34:10,040 --> 00:34:12,880
+<i>- Entre vieilles dames, on se comprend ?</i>
+<i>- Non.</i>
+
+632
+00:34:13,040 --> 00:34:15,360
+<i>J'ai pas du tout le même âge.</i>
+<i>Elle a 40 ans, j'en ai 34.</i>
+
+633
+00:34:15,520 --> 00:34:16,400
+<i>Pardon.</i>
+
+634
+00:34:16,520 --> 00:34:20,120
+<i>C'est pas ce que je voulais dire.</i>
+<i>Toi, tu sais. T'es douée pour ça.</i>
+
+635
+00:34:20,239 --> 00:34:22,920
+<i>Laisse-la un peu respirer.</i>
+
+636
+00:34:23,040 --> 00:34:25,880
+<i>Plus tu vas essayer de te rattraper,</i>
+<i>plus ça va l'agacer.</i>
+
+637
+00:34:26,040 --> 00:34:28,199
+<i>- Donc...</i>
+<i>- Oui, t'as raison.</i>
+
+638
+00:34:28,320 --> 00:34:30,920
+<i>Attends un peu, jusqu'à demain au moins.</i>
+
+639
+00:34:35,880 --> 00:34:38,120
+<i>- Il est bien, ce bar.</i>
+<i>- Ouais, ça va.</i>
+
+640
+00:34:38,920 --> 00:34:41,520
+<i>- Non, mais regarde autour de toi !</i>
+<i>- Quoi ?</i>
+
+641
+00:34:42,440 --> 00:34:44,199
+<i>Les filles, Gabriel.</i>
+
+642
+00:34:44,880 --> 00:34:48,040
+<i>Là, tu vois,</i>
+<i>j'ai pas du tout la tête à ça.</i>
+
+643
+00:34:48,159 --> 00:34:49,120
+<i>Ah ouais ?</i>
+
+644
+00:34:49,800 --> 00:34:51,600
+<i>T'as une copine en ce moment ?</i>
+
+645
+00:34:51,760 --> 00:34:53,000
+<i>- Non.</i>
+<i>- Tu cherches un peu ?</i>
+
+646
+00:34:53,120 --> 00:34:56,000
+<i>Hum ! À fond.</i>
+
+647
+00:34:58,360 --> 00:34:59,400
+<i>Elle, là.</i>
+
+648
+00:35:00,360 --> 00:35:03,240
+<i>- Comment tu la trouves ?</i>
+<i>- Pour moi ou pour toi ?</i>
+
+649
+00:35:06,280 --> 00:35:09,400
+<i>Pour le tournage à Paris, vous êtes sûrs</i>
+<i>d'obtenir toutes les autorisations ?</i>
+
+650
+00:35:09,920 --> 00:35:11,280
+<i>Ça, c'est...</i>
+
+651
+00:35:12,480 --> 00:35:15,120
+<i>- L'administration française.</i>
+<i>- Ah !</i>
+
+652
+00:35:16,000 --> 00:35:18,200
+<i>On peut critiquer</i>
+<i>l'administration française et ses travers,</i>
+
+653
+00:35:18,320 --> 00:35:22,480
+<i>mais, par expérience, tout est plus facile</i>
+<i>quand on a accès aux bonnes personnes.</i>
+
+654
+00:35:22,600 --> 00:35:23,320
+<i>Ah oui ?</i>
+
+655
+00:35:23,440 --> 00:35:26,840
+<i>Si vous avez besoin, n'hésitez pas,</i>
+<i>je me ferai un plaisir de vous aider.</i>
+
+656
+00:35:26,960 --> 00:35:29,800
+<i>Je connais bien la ministre de la Culture</i>
+<i>et le préfet est un ami.</i>
+
+657
+00:35:29,920 --> 00:35:32,360
+<i>Ah ? Eh bien, je ne sais pas.</i>
+
+658
+00:35:33,320 --> 00:35:36,120
+<i>À l'occasion, je vous la présenterai.</i>
+<i>Vous verrez, c'est une femme brillante.</i>
+
+659
+00:35:37,480 --> 00:35:40,400
+<i>Vous allez rire.</i>
+<i>Elle adore Cécile de France.</i>
+
+660
+00:35:41,280 --> 00:35:42,160
+<i>[rire forcé]</i>
+
+661
+00:35:42,360 --> 00:35:46,000
+<i>Elle serait probablement très peinée</i>
+<i>d'apprendre que son actrice préférée</i>
+
+662
+00:35:46,160 --> 00:35:48,640
+<i>a été écartée d'un si magnifique projet.</i>
+
+663
+00:35:49,920 --> 00:35:52,480
+<i>Il vous faudra peut-être renoncer</i>
+<i>à tourner à Paris.</i>
+
+664
+00:35:52,600 --> 00:35:54,720
+<i>Mais elle n'a pas besoin de savoir ça.</i>
+
+665
+00:35:55,640 --> 00:35:57,240
+<i>Elles sont très, très proches.</i>
+
+666
+00:35:57,400 --> 00:35:59,880
+<i>C'est difficile de cacher des choses</i>
+<i>à ses amis.</i>
+
+667
+00:36:01,480 --> 00:36:04,160
+<i>J'imagine que de reconstituer Paris</i>
+<i>dans vos studios</i>
+
+668
+00:36:04,280 --> 00:36:05,760
+<i>représenterait un chantier colossal.</i>
+
+669
+00:36:07,280 --> 00:36:08,160
+<i>Vous bluffez, là.</i>
+
+670
+00:36:08,600 --> 00:36:09,640
+<i>Pas du tout.</i>
+
+671
+00:36:10,600 --> 00:36:12,600
+<i>Pas de Cécile, pas de Paris.</i>
+
+672
+00:36:24,040 --> 00:36:26,600
+<i>- Tu viens tenter de sauver les meubles ?</i>
+<i>- Voilà.</i>
+
+673
+00:36:27,120 --> 00:36:29,520
+<i>On a toujours été en phase, toi et moi.</i>
+
+674
+00:36:29,640 --> 00:36:30,600
+<i>Bonne chance.</i>
+
+675
+00:36:39,360 --> 00:36:41,440
+<i>- Bonjour, Mathias.</i>
+<i>- Cécile.</i>
+
+676
+00:36:44,680 --> 00:36:45,800
+<i>Entrez, entrez.</i>
+
+677
+00:36:48,280 --> 00:36:50,160
+<i>Bon, posez ça là.</i>
+
+678
+00:36:51,520 --> 00:36:52,520
+<i>Un beau bouquet.</i>
+
+679
+00:36:52,800 --> 00:36:55,120
+<i>Ils ont du goût chez Starmédia.</i>
+
+680
+00:36:55,280 --> 00:36:57,840
+<i>Je dois faire des trucs au jardin.</i>
+<i>Vous venez avec moi ?</i>
+
+681
+00:36:58,240 --> 00:37:01,440
+<i>Au nom de l'agence, je suis vraiment</i>
+<i>désolé de ce qui s'est passé avec Gabriel.</i>
+
+682
+00:37:01,560 --> 00:37:03,560
+<i>C'est tout à fait regrettable.</i>
+
+683
+00:37:04,280 --> 00:37:05,320
+<i>Oui...</i>
+
+684
+00:37:07,120 --> 00:37:10,360
+<i>Je sais que vous venez pour essayer</i>
+<i>de récupérer le coup pour Gabriel.</i>
+
+685
+00:37:10,480 --> 00:37:12,200
+<i>Mais c'est mort. C'est même pas la peine.</i>
+
+686
+00:37:12,360 --> 00:37:14,720
+<i>- Vous allez aller chez Starmédia ?</i>
+<i>- Je sais pas.</i>
+
+687
+00:37:14,840 --> 00:37:16,760
+<i>J'ai l'impression</i>
+<i>que ce serait pareil, là-bas.</i>
+
+688
+00:37:16,880 --> 00:37:19,520
+<i>Tout le monde ment dans ce métier.</i>
+<i>Ça me gave.</i>
+
+689
+00:37:19,600 --> 00:37:21,960
+<i>Je sais pas encore trop</i>
+<i>ce que je vais faire.</i>
+
+690
+00:37:25,400 --> 00:37:26,440
+<i>Vous pouvez m'aider ?</i>
+
+691
+00:37:27,440 --> 00:37:28,280
+<i>Oui, oui.</i>
+
+692
+00:37:34,680 --> 00:37:35,520
+<i>Là.</i>
+
+693
+00:37:42,880 --> 00:37:44,440
+<i>- Vous pouvez me passer le seau ?</i>
+<i>- Le seau ?</i>
+
+694
+00:37:46,880 --> 00:37:47,720
+<i>Ah oui !</i>
+
+695
+00:37:49,680 --> 00:37:51,320
+<i>Faites pas cette tête,</i>
+<i>c'est que du compost.</i>
+
+696
+00:37:53,280 --> 00:37:55,040
+<i>Ça nourrit la terre.</i>
+
+697
+00:37:55,920 --> 00:37:59,600
+<i>La terre, au moins, c'est vrai.</i>
+<i>C'est réel, ça sait pas mentir.</i>
+
+698
+00:38:01,120 --> 00:38:02,720
+<i>Écoutez, Cécile, je...</i>
+
+699
+00:38:03,280 --> 00:38:06,200
+<i>Je voulais vous dire que je comprends</i>
+<i>très bien votre déception.</i>
+
+700
+00:38:06,480 --> 00:38:10,120
+<i>Y avait entre vous et Gabriel une relation</i>
+<i>très forte, basée sur la confiance et...</i>
+
+701
+00:38:13,240 --> 00:38:15,840
+<i>Je suis venu vous dire</i>
+<i>que j'ai vu longuement Miranda.</i>
+
+702
+00:38:16,400 --> 00:38:18,520
+<i>Ils sembleraient prêts</i>
+<i>à vouloir rediscuter.</i>
+
+703
+00:38:18,640 --> 00:38:20,600
+<i>Mais je vois bien</i>
+<i>que j'arrive un peu tard.</i>
+
+704
+00:38:20,720 --> 00:38:23,320
+<i>Ah bon ? Qu'est-ce qu'elle a dit ?</i>
+
+705
+00:38:24,080 --> 00:38:26,720
+<i>Elle lui a dit oui. Tu le crois, ça ?</i>
+
+706
+00:38:27,280 --> 00:38:28,320
+<i>Il nous a volé Cécile.</i>
+
+707
+00:38:28,440 --> 00:38:30,480
+<i>Y a des limites à pas dépasser.</i>
+
+708
+00:38:30,760 --> 00:38:32,680
+<i>Je vais le carboniser.</i>
+
+709
+00:38:33,680 --> 00:38:34,720
+<i>Viens.</i>
+
+710
+00:38:39,960 --> 00:38:41,320
+<i>[il frappe à la porte]</i>
+
+711
+00:38:43,960 --> 00:38:44,840
+<i>Merci, Mathias.</i>
+
+712
+00:38:46,560 --> 00:38:49,320
+<i>Me dis pas :</i>
+<i>"C'était pour le bien de l'agence."</i>
+
+713
+00:38:49,440 --> 00:38:52,240
+<i>Évidemment que c'est</i>
+<i>pour le bien de l'agence, Gabriel.</i>
+
+714
+00:38:52,360 --> 00:38:54,680
+<i>Pour que ta lâcheté</i>
+<i>ne nous coûte pas trop cher.</i>
+
+715
+00:38:54,800 --> 00:38:57,080
+<i>Parce que tu te plantes, il faudrait</i>
+<i>que tout le monde se plante aussi ?</i>
+
+716
+00:38:57,200 --> 00:39:00,000
+<i>Je te signale que chez elle, ce matin,</i>
+<i>il y avait déjà deux autres agences.</i>
+
+717
+00:39:00,120 --> 00:39:01,360
+<i>Mais j'étais sur le point la récupérer.</i>
+
+718
+00:39:01,480 --> 00:39:03,720
+<i>Si tu m'avais laissé 24h de plus,</i>
+<i>elle revenait.</i>
+
+719
+00:39:04,360 --> 00:39:06,120
+<i>Dans ce dossier-là, on avait pas 24h.</i>
+
+720
+00:39:06,240 --> 00:39:08,560
+<i>Puis c'est pas un dossier, c'est Cécile.</i>
+
+721
+00:39:08,680 --> 00:39:10,200
+<i>Oui, c'est Cécile, quand même !</i>
+
+722
+00:39:10,320 --> 00:39:12,960
+<i>Félicitations.</i>
+<i>T'as volé la star de Gabriel</i>
+
+723
+00:39:13,080 --> 00:39:16,520
+<i>avec beaucoup de classe. Ça va ?</i>
+<i>T'es droit dans tes bottes ?</i>
+
+724
+00:39:16,680 --> 00:39:18,480
+<i>T'as pas l'air</i>
+<i>d'être étouffé par la honte.</i>
+
+725
+00:39:18,600 --> 00:39:20,800
+<i>Épargne-moi ton couplet humaniste,</i>
+<i>tu veux bien.</i>
+
+726
+00:39:20,920 --> 00:39:23,720
+<i>J'ai juste récupéré in extremis</i>
+<i>une cliente de l'agence.</i>
+
+727
+00:39:23,880 --> 00:39:25,480
+<i>- Merci.</i>
+<i>- Maintenant,</i>
+
+728
+00:39:25,600 --> 00:39:26,960
+<i>laisse-moi te dire une chose.</i>
+
+729
+00:39:27,080 --> 00:39:30,000
+<i>C'est ta nouvelle assistante</i>
+<i>qui lui a dit qu'elle était trop âgée.</i>
+
+730
+00:39:30,120 --> 00:39:32,880
+<i>Je sais pas d'où tu la sors,</i>
+<i>mais c'est pas une trouvaille.</i>
+
+731
+00:39:33,000 --> 00:39:34,080
+<i>Qu'est-ce qui lui a pris ?</i>
+
+732
+00:39:34,200 --> 00:39:35,960
+<i>Elle a voulu faire amie-amie avec Cécile ?</i>
+
+733
+00:39:36,320 --> 00:39:37,840
+<i>En tout cas, elle sait pas</i>
+<i>se conduire avec les clients.</i>
+
+734
+00:39:37,960 --> 00:39:41,080
+<i>Ça met l'agence en danger.</i>
+<i>J'ai rien dit à Gabriel.</i>
+
+735
+00:39:41,920 --> 00:39:45,200
+<i>Mais règle tout ça. Tu veux bien ?</i>
+<i>Bonne journée.</i>
+
+736
+00:39:47,880 --> 00:39:49,080
+<i>J'ai pas de chance.</i>
+
+737
+00:39:49,760 --> 00:39:51,880
+<i>Pour une fois que je trouve</i>
+<i>une assistante qui me plaît,</i>
+
+738
+00:39:52,000 --> 00:39:54,760
+<i>mignonne,</i>
+<i>avec du culot et un peu d'esprit...</i>
+
+739
+00:39:54,920 --> 00:39:57,680
+<i>En fait, je me suis plantée au casting.</i>
+<i>Je suis tombée sur la blonde,</i>
+
+740
+00:39:57,800 --> 00:39:59,720
+<i>la vraie fleur de Provence.</i>
+
+741
+00:40:00,680 --> 00:40:03,720
+<i>T'espérais quoi de ton grand moment</i>
+<i>de complicité avec Cécile de France ?</i>
+
+742
+00:40:03,840 --> 00:40:06,840
+<i>Un selfie pour ta cousine ?</i>
+<i>Un autographe sur ta jupe Soleiado ?</i>
+
+743
+00:40:06,960 --> 00:40:09,720
+<i>Enfin, tu te rends compte</i>
+<i>de ce que t'as fait ?</i>
+
+744
+00:40:09,840 --> 00:40:12,560
+<i>On a failli perdre une de nos plus grosses</i>
+<i>stars à cause de toi.</i>
+
+745
+00:40:12,680 --> 00:40:16,040
+<i>- Ça va, Mathias a rattrapé le coup.</i>
+<i>- Oh, profil bas !</i>
+
+746
+00:40:16,480 --> 00:40:18,360
+<i>C'est pas ça qui s'est passé.</i>
+
+747
+00:40:19,600 --> 00:40:21,080
+<i>Je suis pas une balance.</i>
+
+748
+00:40:23,160 --> 00:40:25,200
+<i>Estime-toi heureuse que Mathias</i>
+<i>n'en ait pas parlé à Gabriel.</i>
+
+749
+00:40:27,040 --> 00:40:28,240
+<i>C'est lui qui vous l'a dit ?</i>
+
+750
+00:40:28,360 --> 00:40:29,280
+<i>Oui.</i>
+
+751
+00:40:31,080 --> 00:40:32,360
+<i>Allez, fais tes affaires.</i>
+
+752
+00:40:36,440 --> 00:40:38,640
+<i>C'était bref, mais intense.</i>
+
+753
+00:40:39,000 --> 00:40:41,800
+<i>Mais dans ton malheur, y a un bonheur.</i>
+
+754
+00:40:41,960 --> 00:40:44,520
+<i>Tu vas quitter ce métier de merde.</i>
+
+755
+00:40:44,640 --> 00:40:46,000
+<i>Non, je te jure.</i>
+
+756
+00:40:47,120 --> 00:40:50,200
+<i>Noémie. Tu pourrais dire</i>
+<i>au revoir à Camille.</i>
+
+757
+00:40:50,320 --> 00:40:52,760
+<i>Ah oui... Non, je suis désolée.</i>
+
+758
+00:40:52,880 --> 00:40:54,520
+<i>Je suis très à la bourre.</i>
+
+759
+00:40:54,640 --> 00:40:57,520
+<i>Il faut que je fasse tous les interlignes,</i>
+<i>que je corrige les...</i>
+
+760
+00:40:58,080 --> 00:40:59,080
+<i>Salut, hein !</i>
+
+761
+00:41:01,240 --> 00:41:02,080
+<i>Bon...</i>
+
+762
+00:41:02,440 --> 00:41:03,760
+<i>- Ben, salut.</i>
+<i>- Oui.</i>
+
+763
+00:41:03,880 --> 00:41:05,760
+<i>Je suis sûr qu'on se recroisera.</i>
+
+764
+00:41:10,600 --> 00:41:13,600
+<i>Quentin, il a réfléchi.</i>
+<i>Il veut vraiment vous.</i>
+
+765
+00:41:13,880 --> 00:41:15,200
+<i>Merci, c'est super.</i>
+
+766
+00:41:15,360 --> 00:41:18,920
+<i>Mais il veut maintenant</i>
+<i>que l'immortelle soit une femme</i>
+
+767
+00:41:19,040 --> 00:41:21,480
+<i>plus jeune.</i>
+<i>Donc, si vous voulez être ce personnage,</i>
+
+768
+00:41:21,600 --> 00:41:23,160
+<i>c'est vous qui changez.</i>
+
+769
+00:41:27,560 --> 00:41:28,960
+<i>Euh, je vous suis plus.</i>
+
+770
+00:41:29,680 --> 00:41:33,040
+<i>Vous avez de la chance.</i>
+<i>Vous aurez que les joues à faire.</i>
+
+771
+00:41:35,320 --> 00:41:38,360
+<i>Vous voulez que je fasse</i>
+<i>de la chirurgie esthétique ?</i>
+
+772
+00:41:39,240 --> 00:41:40,160
+<i>Non !</i>
+
+773
+00:41:43,520 --> 00:41:44,840
+<i>Lipofilling.</i>
+
+774
+00:41:45,400 --> 00:41:47,000
+<i>Ça a rien à voir.</i>
+
+775
+00:41:47,640 --> 00:41:50,400
+<i>C'est comme la liposuccion,</i>
+<i>mais du visage, c'est ça ?</i>
+
+776
+00:41:52,080 --> 00:41:54,040
+<i>Je suis désolée,</i>
+<i>je touche pas à mon visage.</i>
+
+777
+00:41:54,160 --> 00:41:55,080
+<i>Attends.</i>
+
+778
+00:41:55,200 --> 00:41:58,720
+<i>Cécile, ne soyons pas si catégorique.</i>
+<i>Restons ouverts.</i>
+
+779
+00:41:58,800 --> 00:42:00,200
+<i>Voyons ce que Miranda a à nous dire.</i>
+
+780
+00:42:00,640 --> 00:42:02,120
+<i>[Miranda] Oh, c'est simple !</i>
+
+781
+00:42:02,240 --> 00:42:05,840
+<i>Ça fait pschitt, pschitt !</i>
+<i>Ensuite, </i><span style="style_1">done</i><i>. Fini.</i>
+
+782
+00:42:06,160 --> 00:42:07,160
+<i>Baby face.</i>
+
+783
+00:42:07,280 --> 00:42:10,120
+<i>Attendez, c'est facile à dire.</i>
+<i>Je les vois, les autres.</i>
+
+784
+00:42:10,240 --> 00:42:12,360
+<i>Elles commencent avec un peu de botox</i>
+<i>et après, elles s'arrêtent plus.</i>
+
+785
+00:42:13,360 --> 00:42:16,800
+<i>Ce qui m'intéresse, c'est si</i>
+<i>vous allez faire les joues, maintenant.</i>
+
+786
+00:42:16,880 --> 00:42:18,720
+<i>Est-ce que vous voulez être l'immortelle ?</i>
+
+787
+00:42:19,120 --> 00:42:20,880
+<i>Oui, bien sûr. Mais...</i>
+
+788
+00:42:24,960 --> 00:42:26,520
+<i>Je sais plus...</i>
+
+789
+00:42:50,360 --> 00:42:51,480
+<i>Putain, yes !</i>
+
+790
+00:42:57,640 --> 00:42:58,880
+<i>[grognements]</i>
+
+791
+00:42:59,000 --> 00:43:00,040
+<i>Oh non, putain !</i>
+
+792
+00:43:01,680 --> 00:43:04,480
+<i>- Qu'est-ce qu'elle fait là ?</i>
+<i>- Lâche le contrat.</i>
+
+793
+00:43:06,400 --> 00:43:07,560
+<i>Qu'est-ce que vous faites là ?</i>
+
+794
+00:43:07,920 --> 00:43:10,480
+<i>Allez ! Regarde,</i>
+<i>elle est là, ta maîtresse.</i>
+
+795
+00:43:11,400 --> 00:43:13,200
+<i>Je passais par là, et puis...</i>
+
+796
+00:43:13,320 --> 00:43:15,400
+<i>Je l'ai vu jouer avec un contrat.</i>
+
+797
+00:43:15,960 --> 00:43:18,640
+<i>Ça m'étonnerait.</i>
+<i>Jean Gabin déteste les contrats.</i>
+
+798
+00:43:18,760 --> 00:43:20,080
+<i>Au pire, il pisse dessus,</i>
+<i>c'est déjà arrivé.</i>
+
+799
+00:43:20,200 --> 00:43:21,640
+<i>Mais il a jamais joué avec.</i>
+
+800
+00:43:23,320 --> 00:43:24,880
+<i>C'est Andréa qui t'envoie espionner ?</i>
+
+801
+00:43:25,000 --> 00:43:26,560
+<i>Non, pas du tout.</i>
+
+802
+00:43:27,640 --> 00:43:28,880
+<i>C'est vous, Arlette Azémar ?</i>
+
+803
+00:43:29,640 --> 00:43:30,560
+<i>Oui.</i>
+
+804
+00:43:30,680 --> 00:43:31,600
+<i>J'ai vachement entendu parler de vous.</i>
+
+805
+00:43:31,720 --> 00:43:33,360
+<i>Vous êtes la plus grande impresario</i>
+<i>de Paris.</i>
+
+806
+00:43:33,480 --> 00:43:35,120
+<i>Ne te mets pas à quatre pattes non plus.</i>
+
+807
+00:43:36,840 --> 00:43:37,920
+<i>T'as dit impresario ?</i>
+
+808
+00:43:38,040 --> 00:43:39,920
+<i>Oui. C'est plus classe qu'agent, non ?</i>
+
+809
+00:43:40,800 --> 00:43:41,640
+<i>Ah !</i>
+
+810
+00:43:41,800 --> 00:43:45,000
+<i>Je vous donne une réponse</i>
+<i>très vite. Je vous le promets.</i>
+
+811
+00:43:45,840 --> 00:43:47,560
+<i>- [Miranda] Au revoir, Cécile.</i>
+<i>- [Cécile] Au revoir.</i>
+
+812
+00:43:50,760 --> 00:43:51,840
+<i>Cécile ?</i>
+
+813
+00:43:53,600 --> 00:43:54,560
+<i>Ça va ?</i>
+
+814
+00:43:55,240 --> 00:43:56,240
+<i>Tu veux parler un peu ?</i>
+
+815
+00:43:56,360 --> 00:43:57,920
+<i>On va aller dans mon bureau,</i>
+<i>on sera plus tranquilles.</i>
+
+816
+00:43:58,040 --> 00:43:59,080
+<i>Ouais, ouais.</i>
+
+817
+00:44:05,640 --> 00:44:07,920
+<i>Faut dédramatiser, Cécile. Je vous assure.</i>
+
+818
+00:44:08,000 --> 00:44:10,280
+<i>C'est aussi simple</i>
+<i>que de se teindre les cheveux</i>
+
+819
+00:44:10,400 --> 00:44:11,520
+<i>quand ils commencent à blanchir.</i>
+
+820
+00:44:11,640 --> 00:44:12,920
+<i>Je connais tout ça par cœur.</i>
+
+821
+00:44:13,040 --> 00:44:14,360
+<i>Je suis actrice,</i>
+<i>j'ai des copines actrices.</i>
+
+822
+00:44:14,480 --> 00:44:17,080
+<i>On en parle plus souvent</i>
+<i>que vous prononcez le mot "euro"</i>
+
+823
+00:44:17,200 --> 00:44:19,640
+<i>en une journée. C'est tellement facile.</i>
+
+824
+00:44:19,760 --> 00:44:23,800
+<i>Y en a qui le font comme une manucure</i>
+<i>ou une séance de Pilates.</i>
+
+825
+00:44:25,000 --> 00:44:26,760
+<i>Je croyais que ça m'arriverait jamais.</i>
+
+826
+00:44:26,880 --> 00:44:30,320
+<i>Je croyais que je pourrais passer</i>
+<i>à travers tout ça. Ben, non.</i>
+
+827
+00:44:31,000 --> 00:44:32,120
+<i>C'est maintenant.</i>
+
+828
+00:44:33,360 --> 00:44:35,800
+<i>L'année de mes 40 ans. Merci du cadeau.</i>
+
+829
+00:44:40,160 --> 00:44:41,080
+<i>C'est ma femme.</i>
+
+830
+00:44:42,320 --> 00:44:43,960
+<i>Vous lui donnez quel âge ?</i>
+
+831
+00:44:45,680 --> 00:44:48,360
+<i>- 40, 42.</i>
+<i>- Elle a 51 ans.</i>
+
+832
+00:44:50,880 --> 00:44:54,000
+<i>Chaque année, un peu de botox</i>
+<i>pour la ride du lion,</i>
+
+833
+00:44:54,120 --> 00:44:56,760
+<i>acide hyaluronique</i>
+<i>pour les sillons nasogéniens,</i>
+
+834
+00:44:56,880 --> 00:44:58,400
+<i>léger remodelage des pommettes.</i>
+
+835
+00:44:59,360 --> 00:45:01,200
+<i>Et les paupières, y a deux ans.</i>
+
+836
+00:45:02,000 --> 00:45:02,960
+<i>C'est bluffant.</i>
+
+837
+00:45:03,200 --> 00:45:04,040
+<i>Hum...</i>
+
+838
+00:45:04,400 --> 00:45:05,400
+<i>C'est bien fait.</i>
+
+839
+00:45:06,880 --> 00:45:08,600
+<i>Ça vous fait rien qu'elle fasse tout ça ?</i>
+
+840
+00:45:08,920 --> 00:45:10,480
+<i>Non. Au contraire.</i>
+
+841
+00:45:21,960 --> 00:45:23,400
+<i>Il est bien, son chirurgien ?</i>
+
+842
+00:45:25,080 --> 00:45:26,000
+<i>Le meilleur.</i>
+
+843
+00:45:26,720 --> 00:45:29,160
+<i>Miranda ?</i>
+<i>Mathias Barneville, à l'appareil.</i>
+
+844
+00:45:29,240 --> 00:45:31,640
+<i>Oui. Cécile a accepté.</i>
+
+845
+00:45:34,160 --> 00:45:36,080
+<i>De votre côté, pas de problème ?</i>
+
+846
+00:45:36,680 --> 00:45:37,520
+<i>Très bien.</i>
+
+847
+00:45:38,080 --> 00:45:40,800
+<i>Je lui dis de reprendre</i>
+<i>les cours d'équitation.</i>
+
+848
+00:45:41,280 --> 00:45:43,840
+<i>C'est ça, on se rappelle. À très vite.</i>
+
+849
+00:45:54,040 --> 00:45:55,800
+<i>[rires d'Andréa]</i>
+
+850
+00:45:56,800 --> 00:45:58,440
+<i>Ah non ! Non.</i>
+
+851
+00:46:04,680 --> 00:46:06,880
+<i>Je te rappelle, d'accord ? Ouais.</i>
+
+852
+00:46:15,360 --> 00:46:17,080
+<i>Camille, attends !</i>
+
+853
+00:46:18,000 --> 00:46:18,920
+<i>Camille !</i>
+
+854
+00:46:20,680 --> 00:46:22,480
+<i>Richard. Bonjour.</i>
+
+855
+00:46:23,120 --> 00:46:25,320
+<i>Le Tchékhov était une splendeur.</i>
+
+856
+00:46:26,440 --> 00:46:28,080
+<i>Ouverture des portes.</i>
+
+857
+00:46:28,200 --> 00:46:29,400
+<i>Camille.</i>
+
+858
+00:46:33,280 --> 00:46:35,520
+<i>Vas-y. Balance les chiffres.</i>
+
+859
+00:46:37,600 --> 00:46:38,440
+<i>Et ?</i>
+
+860
+00:46:40,240 --> 00:46:41,360
+<i>Et je te garde.</i>
+
+861
+00:46:42,400 --> 00:46:43,240
+<i>Sûr ?</i>
+
+862
+00:46:43,800 --> 00:46:44,680
+<i>Oui.</i>
+
+863
+00:46:44,800 --> 00:46:45,760
+<i>Oh, putain !</i>
+
+864
+00:46:46,120 --> 00:46:47,200
+<i>Merci !</i>
+
+865
+00:46:47,320 --> 00:46:49,400
+<i>Si vous saviez comme je le veux ce boulot.</i>
+
+866
+00:46:49,520 --> 00:46:51,320
+<i>Je vais me donner à fond,</i>
+<i>vous allez pas comprendre.</i>
+
+867
+00:46:57,000 --> 00:46:59,040
+<i>Du coup, tu vas où ?</i>
+<i>Tu vas dans ton bureau ?</i>
+
+868
+00:46:59,120 --> 00:47:00,600
+<i>- Oui.</i>
+<i>- Ben oui.</i>
+
+869
+00:47:00,960 --> 00:47:01,840
+<i>Carrément.</i>
+
+870
+00:47:15,640 --> 00:47:17,640
+<i>- Qu'est-ce que tu fous ?</i>
+<i>- Je bosse.</i>
+
+871
+00:47:20,160 --> 00:47:21,120
+<i>Alice Tiscalini.</i>
+
+872
+00:47:21,640 --> 00:47:24,560
+<i>Tu la connais ? Elle est vraiment bien.</i>
+
+873
+00:47:24,720 --> 00:47:28,320
+<i>Je sais pas si je vais te montrer.</i>
+<i>Je sais pas si tu mérites.</i>
+
+874
+00:47:29,160 --> 00:47:31,560
+<i>Ah oui ! Elle prend bien la lumière.</i>
+
+875
+00:47:36,120 --> 00:47:37,960
+<i>- Surtout ses fesses.</i>
+<i>- Tu arrives</i>
+
+876
+00:47:38,080 --> 00:47:41,560
+<i>pile au moment où, bon...</i>
+<i>Elle a à peine fait un peu de théâtre.</i>
+
+877
+00:47:41,680 --> 00:47:43,680
+<i>Et puis, des courts métrages.</i>
+
+878
+00:47:43,760 --> 00:47:45,400
+<i>Y a tout à faire avec elle.</i>
+
+879
+00:47:46,000 --> 00:47:46,840
+<i>Terrain vierge.</i>
+
+880
+00:47:46,960 --> 00:47:48,720
+<i>Quand Cécile te dit</i>
+<i>qu'elle change d'agent,</i>
+
+881
+00:47:48,800 --> 00:47:51,720
+<i>tu te précipites pour vite</i>
+<i>lui trouver une remplaçante ?</i>
+
+882
+00:47:51,880 --> 00:47:54,920
+<i>On dirait un mec largué</i>
+<i>qui le soir même s'inscrit sur Meetic.</i>
+
+883
+00:47:55,040 --> 00:47:57,040
+<i>C'est ce que t'as fait</i>
+<i>quand ta copine est partie ?</i>
+
+884
+00:47:57,120 --> 00:47:59,040
+<i>Putain, arrête, Arlette !</i>
+
+885
+00:47:59,360 --> 00:48:02,840
+<i>Je sais pas ce qu'il t'a appris Samuel,</i>
+<i>mais il a oublié le cours sur la ténacité.</i>
+
+886
+00:48:02,920 --> 00:48:05,640
+<i>Non, mais qu'est-ce que</i>
+<i>tu veux que je fasse ?</i>
+
+887
+00:48:05,760 --> 00:48:09,080
+<i>Depuis qu'elle est partie avec Mathias,</i>
+<i>c'est silence radio.</i>
+
+888
+00:48:09,200 --> 00:48:10,360
+<i>Elle veut plus me parler.</i>
+
+889
+00:48:11,160 --> 00:48:15,840
+<i>Si elle est partie avec lui,</i>
+<i>c'est qu'il doit bien lui convenir.</i>
+
+890
+00:48:15,960 --> 00:48:17,880
+<i>- Tu y crois ?</i>
+<i>- Quoi ?</i>
+
+891
+00:48:17,960 --> 00:48:21,560
+<i>Tu y crois qu'elle sera mieux</i>
+<i>avec Mathias qu'avec toi ?</i>
+
+892
+00:48:21,680 --> 00:48:22,640
+<i>Tu parles.</i>
+
+893
+00:48:23,800 --> 00:48:27,320
+<i>Je la connais par cœur. Les mecs</i>
+<i>comme Mathias, elle peut pas les encadrer.</i>
+
+894
+00:48:29,040 --> 00:48:31,480
+<i>- Bon !</i>
+<i>- Non, il a dû l'embobiner.</i>
+
+895
+00:48:31,600 --> 00:48:34,800
+<i>T'as raison, reste assis. Ne fais rien.</i>
+
+896
+00:48:56,880 --> 00:49:01,120
+<i>- Bonjour, je cherche Cécile de France.</i>
+<i>- Au fond dans l'allée.</i>
+
+897
+00:49:05,320 --> 00:49:08,160
+<i>Cécile ? Cécile, faut qu'on parle.</i>
+
+898
+00:49:08,280 --> 00:49:10,880
+<i>- Gabriel, qu'est-ce que tu fous là ?</i>
+<i>- Arrête.</i>
+
+899
+00:49:11,280 --> 00:49:13,360
+<i>Ben oui, mais j'y arrive pas.</i>
+
+900
+00:49:14,520 --> 00:49:17,440
+<i>Mais attends, Cécile,</i>
+<i>tu fais super mal du cheval !</i>
+
+901
+00:49:17,600 --> 00:49:21,600
+<i>Tu m'avais dit que tu maîtrisais à fond</i>
+<i>mais rien du tout. Tu m'as menti.</i>
+
+902
+00:49:21,720 --> 00:49:23,560
+<i>Je t'ai pas menti, Gabriel.</i>
+
+903
+00:49:23,680 --> 00:49:26,560
+<i>Je voulais le rôle. Et je pensais vite</i>
+<i>avoir un niveau correct, c'est tout.</i>
+
+904
+00:49:27,000 --> 00:49:29,120
+<i>En quelques semaines,</i>
+<i>ça aurait plus été un mensonge.</i>
+
+905
+00:49:29,240 --> 00:49:30,600
+<i>Mais regarde comment tu fais du cheval !</i>
+
+906
+00:49:30,720 --> 00:49:32,800
+<i>Mais toi aussi, tu m'as menti !</i>
+
+907
+00:49:32,920 --> 00:49:36,560
+<i>Non, y a mentir et mentir.</i>
+<i>Je voulais pas te faire de la peine.</i>
+
+908
+00:49:36,640 --> 00:49:39,400
+<i>- Gabriel, arrête.</i>
+<i>- [monitrice] Monsieur, éloignez-vous.</i>
+
+909
+00:49:39,520 --> 00:49:41,520
+<i>[Gabriel] Doucement. Cécile !</i>
+
+910
+00:49:41,680 --> 00:49:43,720
+<i>- Cécile !</i>
+<i>- [monitrice] Tenez sa crinière.</i>
+
+911
+00:49:43,880 --> 00:49:46,400
+<i>- Cécile, redressez-vous. Voilà.</i>
+<i>- [Gabriel] Attention.</i>
+
+912
+00:49:46,560 --> 00:49:48,960
+<i>[monitrice] Attention, y a la route.</i>
+<i>Agrippez-vous à la crinière.</i>
+
+913
+00:49:55,720 --> 00:49:57,440
+<i>Et c'est quand, la clinique ?</i>
+
+914
+00:49:57,720 --> 00:49:58,760
+<i>Demain.</i>
+
+915
+00:50:04,280 --> 00:50:05,160
+<i>Tu dis rien ?</i>
+
+916
+00:50:07,000 --> 00:50:10,720
+<i>Non, je comprends que tu le fasses.</i>
+<i>Non, ça vaut le coup.</i>
+
+917
+00:50:11,560 --> 00:50:15,000
+<i>C'est... On a tellement rêvé</i>
+<i>de faire ce film.</i>
+
+918
+00:50:15,160 --> 00:50:16,720
+<i>- Hein ?</i>
+<i>- Ben oui.</i>
+
+919
+00:50:16,840 --> 00:50:19,440
+<i>Et elle est super, la clinique.</i>
+<i>C'est Mathias qui me l'a trouvée.</i>
+
+920
+00:50:19,560 --> 00:50:22,360
+<i>Ah ! Si c'est Mathias</i>
+<i>qui l'a trouvée, alors...</i>
+
+921
+00:50:24,840 --> 00:50:25,760
+<i>T'es con.</i>
+
+922
+00:50:27,840 --> 00:50:30,320
+<i>Tu veux pas venir avec moi demain ?</i>
+<i>J'ai peur d'y aller seule.</i>
+
+923
+00:50:30,400 --> 00:50:32,920
+<i>Mathias,</i>
+<i>il a pas le temps de m'accompagner.</i>
+
+924
+00:50:34,600 --> 00:50:36,320
+<i>- Allez.</i>
+<i>- On verra.</i>
+
+925
+00:50:36,880 --> 00:50:37,840
+<i>"On verra."</i>
+
+926
+00:50:43,960 --> 00:50:45,160
+<i>[Cécile] Voilà.</i>
+
+927
+00:50:46,120 --> 00:50:48,720
+<i>Merci de m'avoir accompagnée.</i>
+<i>T'étais vraiment pas obligé.</i>
+
+928
+00:50:48,840 --> 00:50:50,640
+<i>Mais si. Ça me fait...</i>
+
+929
+00:50:52,000 --> 00:50:54,160
+<i>Ne fais pas cette tête.</i>
+<i>Je me suis décidée.</i>
+
+930
+00:50:54,240 --> 00:50:56,320
+<i>C'est pas non plus un si gros truc.</i>
+
+931
+00:50:56,440 --> 00:50:58,280
+<i>Non, vas-y, t'as raison.</i>
+
+932
+00:50:58,400 --> 00:51:00,480
+<i>Des injections comme ça,</i>
+<i>ils en font tout le temps.</i>
+
+933
+00:51:00,560 --> 00:51:02,560
+<i>Puis je me suis renseigné,</i>
+<i>c'est tranquillou.</i>
+
+934
+00:51:02,640 --> 00:51:04,120
+<i>Ouais. Allez, à plus !</i>
+
+935
+00:51:04,400 --> 00:51:06,960
+<i>Euh, je te téléphone après. Hein ?</i>
+
+936
+00:51:07,080 --> 00:51:08,000
+<i>Oui.</i>
+
+937
+00:51:23,640 --> 00:51:26,160
+<i>Bonjour, j'ai rendez-vous</i>
+<i>avec le docteur Lubek.</i>
+
+938
+00:51:26,240 --> 00:51:28,400
+<i>- Je suis Cécile de France.</i>
+<i>- Bonjour.</i>
+
+939
+00:51:28,480 --> 00:51:30,080
+<i>Vous pouvez aller vous assoir,</i>
+<i>je préviens le docteur.</i>
+
+940
+00:51:30,160 --> 00:51:31,280
+<i>Merci.</i>
+
+941
+00:51:33,800 --> 00:51:34,640
+<i>Elle est arrivée.</i>
+
+942
+00:52:14,680 --> 00:52:16,160
+<i>- Mme Cécile de France.</i>
+<i>- Oui ?</i>
+
+943
+00:52:16,600 --> 00:52:18,040
+<i>Le docteur va vous recevoir.</i>
+
+944
+00:52:18,920 --> 00:52:19,760
+<i>Merci.</i>
+
+945
+00:52:34,760 --> 00:52:35,640
+<i>T'es encore là ?</i>
+
+946
+00:52:36,800 --> 00:52:40,200
+<i>Jamais j'ai cru que tu le ferais. Jamais !</i>
+
+947
+00:52:40,320 --> 00:52:42,960
+<i>- T'es vraiment un bon acteur.</i>
+<i>- Non, c'est toi.</i>
+
+948
+00:52:44,280 --> 00:52:46,240
+<i>C'est toi, la putain de bonne actrice !</i>
+
+949
+00:52:46,880 --> 00:52:49,840
+<i>Je serai jamais l'immortelle.</i>
+<i>Allez, démarre.</i>
+
+950
+00:52:49,920 --> 00:52:51,000
+<i>Démarre !</i>
+
+951
+00:52:52,000 --> 00:52:56,400
+<i>Gabriel, mon ange gardien, est-ce que</i>
+<i>vous accepteriez d'être mon agent ?</i>
+
+952
+00:52:56,880 --> 00:52:57,960
+<i>Grave.</i>
+
+953
+00:53:05,200 --> 00:53:07,000
+<i>Noémie, passez-moi le contrat de Canet.</i>
+
+954
+00:53:07,520 --> 00:53:10,080
+<i>Si, ça compte, un prix d'art dramatique.</i>
+
+955
+00:53:10,160 --> 00:53:11,680
+<i>C'est un homme ou une femme ?</i>
+
+956
+00:53:11,760 --> 00:53:13,240
+<i>- Eh ben...</i>
+<i>- À vérifier.</i>
+
+957
+00:53:14,520 --> 00:53:16,800
+<i>Excusez-moi, très chers collègues.</i>
+
+958
+00:53:18,960 --> 00:53:20,040
+<i>T'as l'air content de toi.</i>
+
+959
+00:53:21,200 --> 00:53:23,720
+<i>Je te signale qu'on a quand même perdu</i>
+<i>un gros contrat.</i>
+
+960
+00:53:23,800 --> 00:53:25,800
+<i>Mais on a gardé une grande actrice.</i>
+
+961
+00:53:26,360 --> 00:53:29,040
+<i>Oui, mais on a perdu un gros contrat.</i>
+<i>[sonnerie du téléphone]</i>
+
+962
+00:53:29,160 --> 00:53:32,680
+<i>- </i><span style="style_2">[Sofia]</i><i> Un appel de Rio pour vous.</i>
+<span style="style_2">- Oui. Passez-le-moi. C'est Samuel.</i>
+
+963
+00:53:33,160 --> 00:53:36,360
+<i>Samuel, on est en réunion.</i>
+<i>T'es sur haut-parleur. Chut !</i>
+
+964
+00:53:36,480 --> 00:53:38,680
+<i>Samuel, qué tal, hombre !</i>
+
+965
+00:53:38,800 --> 00:53:41,720
+<i>- On parle portugais au Brésil.</i>
+<span style="style_1">- Je ne suis pas Samuel.</i>
+
+966
+00:53:42,200 --> 00:53:43,800
+<i>Je suis Jean-Louis d'Entremont.</i>
+
+967
+00:53:43,920 --> 00:53:45,280
+<i>[Andréa] Chut !</i>
+
+968
+00:53:45,400 --> 00:53:49,800
+<i>Voilà. Je vous appelle</i>
+<i>du consulat général de France à Rio</i><span style="style_2">.</i>
+
+969
+00:53:50,200 --> 00:53:52,520
+<i>Je suis chargé de vous communiquer</i>
+<i>une mauvaise nouvelle.</i>
+
+970
+00:53:52,640 --> 00:53:55,600
+<i>- M. Kerr Samuel est décédé.</i>
+<span style="style_2">- Pardon ?</i>
+
+971
+00:53:56,320 --> 00:53:58,160
+<i>Il est mort à l'hôpital des suites de...</i>
+
+972
+00:53:58,920 --> 00:53:59,880
+<i>Quoi ?</i>
+
+973
+00:54:00,800 --> 00:54:03,360
+<i>D'après les informations</i>
+<i>qu'on m'a communiquées,</i>
+
+974
+00:54:03,480 --> 00:54:05,160
+<i>il aurait avalé une guêpe.</i>
+
+975
+00:54:07,720 --> 00:54:10,520
+<i>- C'est une blague ?</i>
+<span style="style_1">- Non, désolé.</i>
+
+976
+00:54:15,760 --> 00:54:18,360
+<i>[musique de générique]</i>
