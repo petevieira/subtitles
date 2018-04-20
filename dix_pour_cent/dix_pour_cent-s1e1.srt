@@ -26,11 +26,11 @@
 7
 00:00:44,400 --> 00:00:47,640
 <i>Vous m'avez dit qu'elle serait là à midi.</i>
-<i>Elle aurait déjà dû être <strong>maquillée</strong>.</i>
+<i>Elle aurait déjà <b>dû</b> être <b>maquillée</b>.</i>
 
 8
 00:00:47,760 --> 00:00:49,320
-<i>Ah oui, il est 13h. Elle est pas là ?</i>
+<i>Ah oui, <b>effectivement</b>, il est 13h. Elle est pas là ?</i>
 
 9
 00:00:49,440 --> 00:00:50,960
@@ -60,8 +60,8 @@
 
 15
 00:01:06,880 --> 00:01:09,600
-<i>- T'es où, là ?</i>
-<span style="style_1">- À Quincampoix-Fleuzy. Pourquoi ?</i>
+<i>- <b>Non, et</b> t'es où, là ?</i>
+<span style="style_1">- <b>Mais, je suis</b> à Quincampoix-Fleuzy. Pourquoi ?</i>
 
 16
 00:01:09,720 --> 00:01:12,520
@@ -78,12 +78,12 @@
 
 19
 00:01:17,320 --> 00:01:20,520
-<i>Oh, merde. Faut que tu m'aides.</i>
+<i>Oh, merde. Faut que tu m'aides<b>, Gabriel</b>.</i>
 <i>Je suis encore au cours de cheval.</i>
 
 20
 00:01:20,680 --> 00:01:22,640
-<i>T'en prends combien,</i>
+<i>T'en prends combien</i>
 <i>des cours de cheval ?</i>
 
 21
@@ -102,8 +102,8 @@
 
 24
 00:01:30,360 --> 00:01:34,920
-<i>Et là, j'ai juste besoin un peu</i>
-<i>de coaching pour me refaire la main.</i>
+<i>Et là, <b>ma voilà,</b> j'ai juste besoin un peu</i>
+<i>de coaching pour me refaire la main. <b>C'est tout.</b></i>
 
 25
 00:01:35,400 --> 00:01:36,720
@@ -111,7 +111,7 @@
 
 26
 00:01:36,840 --> 00:01:39,400
-<i>Les Américains ont bien insisté :</i>
+<i>Les Américains ont bien insisté en tu:</i>
 <i>il faut être nickel à cheval.</i>
 
 27
@@ -130,7 +130,7 @@
 
 30
 00:01:47,280 --> 00:01:49,680
-<i>Parce qu'on va rentrer dans un sous-bois.</i>
+<i>Parce que on va rentrer dans un sous-bois.</i>
 
 31
 00:01:49,800 --> 00:01:51,160

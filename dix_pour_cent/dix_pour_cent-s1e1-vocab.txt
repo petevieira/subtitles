@@ -1,0 +1,21 @@
+é
+è
+ê
+à
+î
+ô
+û
+ç
+
+<i>Elle aurait déjà <b>dû</b> être <b>maquillée</b>.</i>
+<i>On ne s'énerve pas contre Biscotte.</i>
+<i>- <b>Non, et</b> t'es où, là ?</i>
+<i>Oh, merde. Faut que tu m'aides<b>, Gabriel</b>.</i>
+<i>Je croyais que tu maîtrisais à fond.</i>
+<i>Et là, <b>ma voilà,</b> j'ai juste besoin un peu</i>
+<i>de coaching pour me refaire la main. <b>C'est tout.</b></i>
+<i>Tu m'inquiètes, là.</i>
+<i>il faut être nickel à cheval.</i>
+<span style="style_2">- Oui, je suis pas loin d'être nickel.</i>
+<i>- Je te fais confiance ?</i>
+<i>Parce que on va rentrer dans un sous-bois.</i>
